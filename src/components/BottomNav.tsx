@@ -8,9 +8,6 @@ export default function BottomNav() {
   const [showNavMenu, setShowNavMenu] = useState(false);
   const [isClosingMenu, setIsClosingMenu] = useState(false);
 
-  // Solo se muestran en el catálogo (la raíz)
-  if (location.pathname !== '/') return null;
-
   const handleCloseMenu = () => {
     setIsClosingMenu(true);
     setTimeout(() => {
@@ -29,6 +26,9 @@ export default function BottomNav() {
       document.body.style.overflow = '';
     };
   }, [showNavMenu]);
+
+  // Solo se muestran en el catálogo (la raíz)
+  if (location.pathname !== '/') return null;
 
   const handleMenuAction = (action?: string, path?: string) => {
     handleCloseMenu();
