@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { Share, Plus, Calculator, X, ArrowRightLeft, Copy, User, ArrowLeft } from 'lucide-react';
+import { Plus, Calculator, X, ArrowRightLeft, Copy, User, ArrowLeft } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { store } from '../store/store';
 import type { Collection } from '../store/store';

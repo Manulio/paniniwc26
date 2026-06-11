@@ -1,4 +1,4 @@
-import { Plus, Minus, Trash2 } from 'lucide-react';
+
 import { memo, useCallback } from 'react';
 import { getTeamColors } from '../utils/teamColors';
 
@@ -12,9 +12,7 @@ interface StickerCardProps {
   photoUrl?: string;
   isEditing: boolean;
   onToggleOwned: (id: string) => void;
-  onUpdateDuplicates: (id: string, delta: number) => void;
   onStartEditing: (id: string) => void;
-  onStopEditing: () => void;
 }
 
 const StickerCard = memo(function StickerCard({ 
@@ -27,9 +25,7 @@ const StickerCard = memo(function StickerCard({
   photoUrl,
   isEditing,
   onToggleOwned, 
-  onUpdateDuplicates,
   onStartEditing,
-  onStopEditing,
 }: StickerCardProps) {
   
   const isBadge = type === 'badge';
@@ -51,20 +47,6 @@ const StickerCard = memo(function StickerCard({
     }
   }, [owned, id, onToggleOwned, onStartEditing]);
 
-  const handleMinus = useCallback((e: React.MouseEvent) => {
-    e.stopPropagation();
-    if (duplicates > 0) {
-      onUpdateDuplicates(id, -1);
-    } else {
-      onToggleOwned(id);
-      onStopEditing();
-    }
-  }, [duplicates, id, onUpdateDuplicates, onToggleOwned, onStopEditing]);
-
-  const handlePlus = useCallback((e: React.MouseEvent) => {
-    e.stopPropagation();
-    onUpdateDuplicates(id, 1);
-  }, [id, onUpdateDuplicates]);
 
   return (
     <div className="relative group">

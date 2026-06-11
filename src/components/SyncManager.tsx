@@ -6,7 +6,7 @@ import { store, type Collection } from '../store/store';
 
 export default function SyncManager() {
   const [user, loading] = useAuthState(auth);
-  const syncTimeoutRef = useRef<NodeJS.Timeout | null>(null);
+  const syncTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   // Initial Sync when user logs in
   useEffect(() => {

@@ -1,6 +1,6 @@
 import { useState, useEffect, useMemo, useRef, useCallback } from 'react';
 import Fuse from 'fuse.js';
-import { Search, ChevronLeft, ChevronRight, Trophy, BookOpen, Download, Filter, X, Share, LayoutGrid, Trash2, Upload, BarChart3, Menu, ArrowRightLeft, Settings, Plus, Minus } from 'lucide-react';
+import { Search, ChevronLeft, ChevronRight, Trophy, Download, Filter, X, Share, LayoutGrid, Trash2, Upload, BarChart3, Plus, Minus } from 'lucide-react';
 import { useLocation } from 'react-router-dom';
 import StickerCard from '../components/StickerCard';
 import { store } from '../store/store';
@@ -212,9 +212,7 @@ export default function CollectionPage() {
     setEditingStickerId(id);
   }, []);
 
-  const handleStopEditing = useCallback(() => {
-    setEditingStickerId(null);
-  }, []);
+
 
   // Close editor on click outside
   useEffect(() => {
@@ -344,9 +342,9 @@ export default function CollectionPage() {
     const crest = getTeamColors(teamCode).crest;
     if (crest) return crest;
     if (teamCode === 'FIFA' || teamCode === 'Coca-Cola') {
-      return stickersData.find(s => s.team === teamCode)?.photoUrl || '';
+      return (stickersData as any[]).find(s => s.team === teamCode)?.photoUrl || '';
     }
-    return stickersData.find(s => s.team === teamCode && s.type === 'badge')?.photoUrl ||
+    return (stickersData as any[]).find(s => s.team === teamCode && s.type === 'badge')?.photoUrl ||
       'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Blank_shield.svg/800px-Blank_shield.svg.png';
   };
 
@@ -844,9 +842,7 @@ export default function CollectionPage() {
                       duplicates={collection[sticker.id]?.duplicates || 0}
                       isEditing={editingStickerId === sticker.id}
                       onToggleOwned={handleToggleOwned}
-                      onUpdateDuplicates={handleUpdateDuplicates}
                       onStartEditing={handleStartEditing}
-                      onStopEditing={handleStopEditing}
                     />
                   ))}
                 </div>

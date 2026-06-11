@@ -1,4 +1,4 @@
-import React, { createContext, useContext, useState, useEffect, useRef } from 'react';
+import React, { createContext, useContext, useState, useRef } from 'react';
 import { recognizeStickersFromImages } from '../utils/ai';
 import { store } from '../store/store';
 import stickersData from '../data/stickers.json';
@@ -61,7 +61,6 @@ export const ScanProvider: React.FC<{ children: React.ReactNode }> = ({ children
     
     let totalNew = 0;
     let totalFound = 0;
-    const scanSessionStickers: { id: string; name: string; isNew: boolean }[] = [];
 
     while (queueRef.current.length > 0) {
       const currentTask = queueRef.current[0];

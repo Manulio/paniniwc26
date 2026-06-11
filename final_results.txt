@@ -1,0 +1,297 @@
+RESUMEN FINAL: Se identificaron un total de 296 figuritas.
+- ESP 1 (Spain): 1 vez/veces
+- ESP 6 (Spain): 1 vez/veces
+- ESP 9 (Spain): 1 vez/veces
+- ESP 10 (Spain): 1 vez/veces
+- ESP 12 (Spain): 1 vez/veces
+- ESP 13 (Spain): 1 vez/veces
+- ESP 14 (Spain): 1 vez/veces
+- ESP 16 (Spain): 1 vez/veces
+- ESP 17 (Spain): 1 vez/veces
+- ESP 18 (Spain): 1 vez/veces
+- ESP 19 (Spain): 1 vez/veces
+- ESP 20 (Spain): 1 vez/veces
+- KSA 1 (Saudi Arabia): 1 vez/veces
+- KSA 7 (Saudi Arabia): 1 vez/veces
+- KSA 13 (Saudi Arabia): 1 vez/veces
+- KSA 18 (Saudi Arabia): 1 vez/veces
+- AUT 6 (Austria): 1 vez/veces
+- AUT 8 (Austria): 1 vez/veces
+- AUT 9 (Austria): 1 vez/veces
+- SEN 3 (Senegal): 1 vez/veces
+- SEN 7 (Senegal): 1 vez/veces
+- SEN 9 (Senegal): 1 vez/veces
+- SEN 10 (Senegal): 1 vez/veces
+- SEN 11 (Senegal): 1 vez/veces
+- SEN 13 (Senegal): 1 vez/veces
+- SEN 14 (Senegal): 1 vez/veces
+- SEN 15 (Senegal): 1 vez/veces
+- SEN 16 (Senegal): 1 vez/veces
+- SEN 18 (Senegal): 1 vez/veces
+- SEN 20 (Senegal): 1 vez/veces
+- CPV 5 (Cabo Verde): 1 vez/veces
+- CPV 9 (Cabo Verde): 1 vez/veces
+- CPV 14 (Cabo Verde): 1 vez/veces
+- RSA 7 (South Africa): 1 vez/veces
+- RSA 3 (South Africa): 1 vez/veces
+- COD 4 (Congo DR): 1 vez/veces
+- COD 11 (Congo DR): 1 vez/veces
+- COD 14 (Congo DR): 1 vez/veces
+- COL 1 (Colombia): 1 vez/veces
+- COL 19 (Colombia): 1 vez/veces
+- COL 6 (Colombia): 1 vez/veces
+- COL 20 (Colombia): 1 vez/veces
+- COL 12 (Colombia): 1 vez/veces
+- COL 11 (Colombia): 1 vez/veces
+- TUR 1 (Turkey): 1 vez/veces
+- TUR 3 (Turkey): 1 vez/veces
+- TUR 5 (Turkey): 1 vez/veces
+- TUR 10 (Turkey): 1 vez/veces
+- TUR 7 (Turkey): 1 vez/veces
+- TUR 17 (Turkey): 1 vez/veces
+- TUR 12 (Turkey): 1 vez/veces
+- TUR 14 (Turkey): 1 vez/veces
+- TUR 11 (Turkey): 1 vez/veces
+- PAN 8 (Panama): 1 vez/veces
+- PAN 13 (Panama): 1 vez/veces
+- PAN 20 (Panama): 1 vez/veces
+- PAN 10 (Panama): 1 vez/veces
+- PAN 15 (Panama): 1 vez/veces
+- PAN 5 (Panama): 1 vez/veces
+- PAN 14 (Panama): 1 vez/veces
+- SCO 3 (Scotland): 1 vez/veces
+- SCO 5 (Scotland): 1 vez/veces
+- SCO 8 (Scotland): 1 vez/veces
+- SCO 9 (Scotland): 1 vez/veces
+- SCO 14 (Scotland): 1 vez/veces
+- SCO 18 (Scotland): 1 vez/veces
+- CIV 1 (Côte d'Ivoire): 1 vez/veces
+- CIV 2 (Côte d'Ivoire): 1 vez/veces
+- CIV 6 (Côte d'Ivoire): 1 vez/veces
+- CIV 9 (Côte d'Ivoire): 1 vez/veces
+- CIV 10 (Côte d'Ivoire): 1 vez/veces
+- CIV 14 (Côte d'Ivoire): 1 vez/veces
+- CIV 15 (Côte d'Ivoire): 1 vez/veces
+- CIV 18 (Côte d'Ivoire): 1 vez/veces
+- CIV 20 (Côte d'Ivoire): 1 vez/veces
+- KOR 2 (South Korea): 1 vez/veces
+- KOR 4 (South Korea): 1 vez/veces
+- KOR 5 (South Korea): 1 vez/veces
+- KOR 13 (South Korea): 1 vez/veces
+- KOR 16 (South Korea): 1 vez/veces
+- KOR 17 (South Korea): 1 vez/veces
+- BRA 4 (Brazil): 1 vez/veces
+- BRA 7 (Brazil): 1 vez/veces
+- BRA 13 (Brazil): 1 vez/veces
+- BRA 15 (Brazil): 1 vez/veces
+- BRA 18 (Brazil): 1 vez/veces
+- AUS 2 (Australia): 1 vez/veces
+- AUS 10 (Australia): 1 vez/veces
+- AUS 11 (Australia): 1 vez/veces
+- AUS 13 (Australia): 1 vez/veces
+- AUS 20 (Australia): 1 vez/veces
+- NZL 3 (New Zealand): 1 vez/veces
+- NZL 5 (New Zealand): 1 vez/veces
+- NZL 7 (New Zealand): 1 vez/veces
+- NZL 8 (New Zealand): 1 vez/veces
+- NZL 9 (New Zealand): 1 vez/veces
+- NZL 11 (New Zealand): 1 vez/veces
+- NZL 14 (New Zealand): 1 vez/veces
+- NZL 16 (New Zealand): 1 vez/veces
+- NZL 20 (New Zealand): 1 vez/veces
+- ARG 1 (Argentina): 1 vez/veces
+- ARG 5 (Argentina): 1 vez/veces
+- ARG 6 (Argentina): 1 vez/veces
+- ARG 8 (Argentina): 1 vez/veces
+- ARG 16 (Argentina): 1 vez/veces
+- USA 1 (USA): 1 vez/veces
+- USA 2 (USA): 1 vez/veces
+- USA 4 (USA): 1 vez/veces
+- USA 8 (USA): 1 vez/veces
+- USA 9 (USA): 1 vez/veces
+- USA 10 (USA): 1 vez/veces
+- USA 16 (USA): 1 vez/veces
+- CUW 2 (Curaçao): 1 vez/veces
+- CUW 5 (Curaçao): 1 vez/veces
+- CUW 7 (Curaçao): 1 vez/veces
+- CUW 11 (Curaçao): 1 vez/veces
+- CUW 14 (Curaçao): 1 vez/veces
+- CUW 16 (Curaçao): 1 vez/veces
+- CUW 18 (Curaçao): 1 vez/veces
+- CRO 2 (Croatia): 1 vez/veces
+- CRO 3 (Croatia): 1 vez/veces
+- CRO 8 (Croatia): 1 vez/veces
+- CRO 9 (Croatia): 1 vez/veces
+- CRO 11 (Croatia): 1 vez/veces
+- CRO 12 (Croatia): 1 vez/veces
+- CRO 17 (Croatia): 1 vez/veces
+- NED 2 (Netherlands): 1 vez/veces
+- NED 5 (Netherlands): 1 vez/veces
+- NED 17 (Netherlands): 1 vez/veces
+- NED 18 (Netherlands): 1 vez/veces
+- NED 10 (Netherlands): 1 vez/veces
+- NED 15 (Netherlands): 1 vez/veces
+- NED 20 (Netherlands): 1 vez/veces
+- NED 12 (Netherlands): 1 vez/veces
+- NED 16 (Netherlands): 1 vez/veces
+- NED 11 (Netherlands): 1 vez/veces
+- IRN 9 (Iran): 1 vez/veces
+- CZE 5 (Czechia): 1 vez/veces
+- CZE 15 (Czechia): 1 vez/veces
+- CZE 8 (Czechia): 1 vez/veces
+- CZE 7 (Czechia): 1 vez/veces
+- CZE 19 (Czechia): 1 vez/veces
+- ARG 18 (Argentina): 1 vez/veces
+- FWC 5 (FIFA): 1 vez/veces
+- FWC 2 (FIFA): 1 vez/veces
+- IRN 1 (Iran): 1 vez/veces
+- IRN 18 (Iran): 1 vez/veces
+- IRN 3 (Iran): 1 vez/veces
+- IRN 17 (Iran): 1 vez/veces
+- IRN 6 (Iran): 1 vez/veces
+- IRN 10 (Iran): 1 vez/veces
+- IRN 12 (Iran): 1 vez/veces
+- GER 20 (Germany): 1 vez/veces
+- FWC 4 (FIFA): 1 vez/veces
+- TUN 2 (Tunisia): 1 vez/veces
+- TUN 3 (Tunisia): 1 vez/veces
+- TUN 5 (Tunisia): 1 vez/veces
+- TUN 8 (Tunisia): 1 vez/veces
+- TUN 12 (Tunisia): 1 vez/veces
+- TUN 13 (Tunisia): 1 vez/veces
+- TUN 15 (Tunisia): 1 vez/veces
+- TUN 16 (Tunisia): 1 vez/veces
+- TUN 17 (Tunisia): 1 vez/veces
+- TUN 19 (Tunisia): 1 vez/veces
+- TUN 20 (Tunisia): 1 vez/veces
+- ALG 3 (Algeria): 1 vez/veces
+- ALG 4 (Algeria): 1 vez/veces
+- ALG 7 (Algeria): 1 vez/veces
+- ALG 8 (Algeria): 1 vez/veces
+- ALG 11 (Algeria): 1 vez/veces
+- ALG 13 (Algeria): 1 vez/veces
+- ALG 17 (Algeria): 1 vez/veces
+- ALG 20 (Algeria): 1 vez/veces
+- MAR 4 (Morocco): 1 vez/veces
+- MAR 5 (Morocco): 1 vez/veces
+- MAR 7 (Morocco): 1 vez/veces
+- MAR 9 (Morocco): 1 vez/veces
+- MAR 11 (Morocco): 1 vez/veces
+- MAR 12 (Morocco): 1 vez/veces
+- MAR 13 (Morocco): 1 vez/veces
+- MAR 16 (Morocco): 1 vez/veces
+- MAR 18 (Morocco): 1 vez/veces
+- MAR 20 (Morocco): 1 vez/veces
+- EGY 4 (Egypt): 1 vez/veces
+- EGY 10 (Egypt): 1 vez/veces
+- EGY 11 (Egypt): 1 vez/veces
+- EGY 12 (Egypt): 1 vez/veces
+- EGY 13 (Egypt): 1 vez/veces
+- EGY 14 (Egypt): 1 vez/veces
+- EGY 16 (Egypt): 1 vez/veces
+- EGY 17 (Egypt): 1 vez/veces
+- EGY 19 (Egypt): 1 vez/veces
+- EGY 20 (Egypt): 1 vez/veces
+- URU 1 (Uruguay): 1 vez/veces
+- URU 4 (Uruguay): 1 vez/veces
+- URU 15 (Uruguay): 1 vez/veces
+- URU 5 (Uruguay): 1 vez/veces
+- URU 20 (Uruguay): 1 vez/veces
+- URU 9 (Uruguay): 1 vez/veces
+- URU 16 (Uruguay): 1 vez/veces
+- JOR 2 (Jordan): 1 vez/veces
+- JOR 3 (Jordan): 1 vez/veces
+- JOR 5 (Jordan): 1 vez/veces
+- JOR 14 (Jordan): 1 vez/veces
+- JOR 6 (Jordan): 1 vez/veces
+- JOR 15 (Jordan): 1 vez/veces
+- JOR 10 (Jordan): 1 vez/veces
+- POR 3 (Portugal): 1 vez/veces
+- POR 6 (Portugal): 1 vez/veces
+- POR 17 (Portugal): 1 vez/veces
+- POR 11 (Portugal): 1 vez/veces
+- POR 13 (Portugal): 1 vez/veces
+- QAT 17 (Qatar): 1 vez/veces
+- QAT 4 (Qatar): 1 vez/veces
+- QAT 7 (Qatar): 1 vez/veces
+- QAT 6 (Qatar): 1 vez/veces
+- QAT 9 (Qatar): 1 vez/veces
+- QAT 11 (Qatar): 1 vez/veces
+- JPN 2 (Japan): 1 vez/veces
+- JPN 18 (Japan): 1 vez/veces
+- JPN 6 (Japan): 1 vez/veces
+- JPN 9 (Japan): 1 vez/veces
+- JPN 13 (Japan): 1 vez/veces
+- JPN 20 (Japan): 1 vez/veces
+- JPN 4 (Japan): 1 vez/veces
+- JPN 12 (Japan): 1 vez/veces
+- BEL 3 (Belgium): 1 vez/veces
+- BEL 13 (Belgium): 1 vez/veces
+- SWE 3 (Sweden): 1 vez/veces
+- SWE 4 (Sweden): 1 vez/veces
+- SWE 7 (Sweden): 1 vez/veces
+- SWE 9 (Sweden): 1 vez/veces
+- SWE 12 (Sweden): 1 vez/veces
+- SWE 16 (Sweden): 1 vez/veces
+- SWE 17 (Sweden): 1 vez/veces
+- ECU 14 (Ecuador): 1 vez/veces
+- ECU 16 (Ecuador): 1 vez/veces
+- FWC 19 (FIFA): 1 vez/veces
+- IRQ 7 (Iraq): 1 vez/veces
+- IRQ 11 (Iraq): 1 vez/veces
+- ENG 4 (England): 1 vez/veces
+- ENG 11 (England): 1 vez/veces
+- BIH 1 (Bosnia-Herzegovina): 1 vez/veces
+- BIH 2 (Bosnia-Herzegovina): 1 vez/veces
+- BIH 3 (Bosnia-Herzegovina): 1 vez/veces
+- GHA 1 (Ghana): 1 vez/veces
+- GHA 11 (Ghana): 1 vez/veces
+- HAI 2 (Haiti): 1 vez/veces
+- HAI 16 (Haiti): 1 vez/veces
+- HAI 4 (Haiti): 1 vez/veces
+- HAI 17 (Haiti): 1 vez/veces
+- HAI 10 (Haiti): 1 vez/veces
+- HAI 12 (Haiti): 1 vez/veces
+- UZB 18 (Uzbekistan): 1 vez/veces
+- UZB 5 (Uzbekistan): 1 vez/veces
+- UZB 17 (Uzbekistan): 1 vez/veces
+- UZB 7 (Uzbekistan): 1 vez/veces
+- UZB 13 (Uzbekistan): 1 vez/veces
+- UZB 15 (Uzbekistan): 1 vez/veces
+- SUI 5 (Switzerland): 1 vez/veces
+- SUI 6 (Switzerland): 1 vez/veces
+- SUI 8 (Switzerland): 1 vez/veces
+- SUI 14 (Switzerland): 1 vez/veces
+- SUI 12 (Switzerland): 1 vez/veces
+- SUI 3 (Switzerland): 1 vez/veces
+- MEX 16 (Mexico): 1 vez/veces
+- MEX 9 (Mexico): 1 vez/veces
+- MEX 12 (Mexico): 1 vez/veces
+- MEX 13 (Mexico): 1 vez/veces
+- PAR 17 (Paraguay): 1 vez/veces
+- CAN 6 (Canada): 1 vez/veces
+- CAN 5 (Canada): 1 vez/veces
+- CAN 4 (Canada): 1 vez/veces
+- CAN 17 (Canada): 1 vez/veces
+- CAN 8 (Canada): 1 vez/veces
+- CAN 14 (Canada): 1 vez/veces
+- CAN 9 (Canada): 1 vez/veces
+- FRA 1 (France): 1 vez/veces
+- FRA 2 (France): 1 vez/veces
+- FRA 4 (France): 1 vez/veces
+- FRA 6 (France): 1 vez/veces
+- FRA 7 (France): 1 vez/veces
+- FRA 8 (France): 1 vez/veces
+- FRA 9 (France): 1 vez/veces
+- FRA 10 (France): 1 vez/veces
+- FRA 11 (France): 1 vez/veces
+- FRA 14 (France): 1 vez/veces
+- FRA 17 (France): 1 vez/veces
+- NOR 4 (Norway): 1 vez/veces
+- NOR 5 (Norway): 1 vez/veces
+- NOR 7 (Norway): 1 vez/veces
+- NOR 9 (Norway): 1 vez/veces
+- NOR 13 (Norway): 1 vez/veces
+- NOR 14 (Norway): 1 vez/veces
+- NOR 18 (Norway): 1 vez/veces
+- NOR 20 (Norway): 1 vez/veces
