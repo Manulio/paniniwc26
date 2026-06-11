@@ -1,0 +1,6946 @@
+[
+  {
+    "id": "FWC-00",
+    "number": "FWC 00",
+    "name": "PANINI LOGO",
+    "team": "FIFA",
+    "type": "badge"
+  },
+  {
+    "id": "FWC-1",
+    "number": "FWC 1",
+    "name": "WC LOGO",
+    "team": "FIFA",
+    "type": "badge"
+  },
+  {
+    "id": "FWC-2",
+    "number": "FWC 2",
+    "name": "WC LOGO",
+    "team": "FIFA",
+    "type": "badge"
+  },
+  {
+    "id": "FWC-3",
+    "number": "FWC 3",
+    "name": "OFFICIAL MASCOTS",
+    "team": "FIFA",
+    "type": "misc"
+  },
+  {
+    "id": "FWC-4",
+    "number": "FWC 4",
+    "name": "OFFICIAL SLOGAN",
+    "team": "FIFA",
+    "type": "misc"
+  },
+  {
+    "id": "FWC-5",
+    "number": "FWC 5",
+    "name": "OFFICIAL BALL",
+    "team": "FIFA",
+    "type": "misc"
+  },
+  {
+    "id": "FWC-6",
+    "number": "FWC 6",
+    "name": "CANADA - HOST COUNTRY EMBLEM",
+    "team": "FIFA",
+    "type": "badge"
+  },
+  {
+    "id": "FWC-7",
+    "number": "FWC 7",
+    "name": "MEXICO - HOST COUNTRY EMBLEM",
+    "team": "FIFA",
+    "type": "badge"
+  },
+  {
+    "id": "FWC-8",
+    "number": "FWC 8",
+    "name": "USA - HOST COUNTRY EMBLEM",
+    "team": "FIFA",
+    "type": "badge"
+  },
+  {
+    "id": "MEX-1",
+    "number": "MEX 1",
+    "name": "BADGE",
+    "team": "MEX",
+    "type": "badge"
+  },
+  {
+    "id": "MEX-2",
+    "number": "MEX 2",
+    "name": "LUIS MALAGÓN",
+    "team": "MEX",
+    "type": "player"
+  },
+  {
+    "id": "MEX-3",
+    "number": "MEX 3",
+    "name": "JOHAN VÁSQUEZ",
+    "team": "MEX",
+    "type": "player"
+  },
+  {
+    "id": "MEX-4",
+    "number": "MEX 4",
+    "name": "JORGE SÁNCHEZ",
+    "team": "MEX",
+    "type": "player"
+  },
+  {
+    "id": "MEX-5",
+    "number": "MEX 5",
+    "name": "CÉSAR MONTES",
+    "team": "MEX",
+    "type": "player"
+  },
+  {
+    "id": "MEX-6",
+    "number": "MEX 6",
+    "name": "JESÚS GALLARDO",
+    "team": "MEX",
+    "type": "player"
+  },
+  {
+    "id": "MEX-7",
+    "number": "MEX 7",
+    "name": "ISRAEL REYES",
+    "team": "MEX",
+    "type": "player"
+  },
+  {
+    "id": "MEX-8",
+    "number": "MEX 8",
+    "name": "DIEGO LAINEZ",
+    "team": "MEX",
+    "type": "player"
+  },
+  {
+    "id": "MEX-9",
+    "number": "MEX 9",
+    "name": "CARLOS RODRÍGUEZ",
+    "team": "MEX",
+    "type": "player"
+  },
+  {
+    "id": "MEX-10",
+    "number": "MEX 10",
+    "name": "EDSON ÁLVAREZ",
+    "team": "MEX",
+    "type": "player"
+  },
+  {
+    "id": "MEX-11",
+    "number": "MEX 11",
+    "name": "ORBELIN PINEDA",
+    "team": "MEX",
+    "type": "player"
+  },
+  {
+    "id": "MEX-12",
+    "number": "MEX 12",
+    "name": "MARCEL RUIZ",
+    "team": "MEX",
+    "type": "player"
+  },
+  {
+    "id": "MEX-13",
+    "number": "MEX 13",
+    "name": "SQUAD",
+    "team": "MEX",
+    "type": "team_photo"
+  },
+  {
+    "id": "MEX-14",
+    "number": "MEX 14",
+    "name": "ÉRICK SÁNCHEZ",
+    "team": "MEX",
+    "type": "player"
+  },
+  {
+    "id": "MEX-15",
+    "number": "MEX 15",
+    "name": "HIRVING LOZANO",
+    "team": "MEX",
+    "type": "player"
+  },
+  {
+    "id": "MEX-16",
+    "number": "MEX 16",
+    "name": "SANTIAGO GIMÉNEZ",
+    "team": "MEX",
+    "type": "player"
+  },
+  {
+    "id": "MEX-17",
+    "number": "MEX 17",
+    "name": "RAÚL JIMÉNEZ",
+    "team": "MEX",
+    "type": "player"
+  },
+  {
+    "id": "MEX-18",
+    "number": "MEX 18",
+    "name": "ALEXIS VEGA",
+    "team": "MEX",
+    "type": "player"
+  },
+  {
+    "id": "MEX-19",
+    "number": "MEX 19",
+    "name": "ROBERTO ALVARADO",
+    "team": "MEX",
+    "type": "player"
+  },
+  {
+    "id": "MEX-20",
+    "number": "MEX 20",
+    "name": "CÉSAR HUERTA",
+    "team": "MEX",
+    "type": "player"
+  },
+  {
+    "id": "RSA-1",
+    "number": "RSA 1",
+    "name": "BADGE",
+    "team": "RSA",
+    "type": "badge"
+  },
+  {
+    "id": "RSA-2",
+    "number": "RSA 2",
+    "name": "RONWEN WILLIAMS",
+    "team": "RSA",
+    "type": "player"
+  },
+  {
+    "id": "RSA-3",
+    "number": "RSA 3",
+    "name": "SIPHO CHAINE",
+    "team": "RSA",
+    "type": "player"
+  },
+  {
+    "id": "RSA-4",
+    "number": "RSA 4",
+    "name": "AUBREY MODIBA",
+    "team": "RSA",
+    "type": "player"
+  },
+  {
+    "id": "RSA-5",
+    "number": "RSA 5",
+    "name": "SAMUKELE KABINI",
+    "team": "RSA",
+    "type": "player"
+  },
+  {
+    "id": "RSA-6",
+    "number": "RSA 6",
+    "name": "MBEKEZELI MBOKAZI",
+    "team": "RSA",
+    "type": "player"
+  },
+  {
+    "id": "RSA-7",
+    "number": "RSA 7",
+    "name": "KHULUMANI NDAMANE",
+    "team": "RSA",
+    "type": "player"
+  },
+  {
+    "id": "RSA-8",
+    "number": "RSA 8",
+    "name": "SIYABONGA NGEZANA",
+    "team": "RSA",
+    "type": "player"
+  },
+  {
+    "id": "RSA-9",
+    "number": "RSA 9",
+    "name": "KHULISO MUDAU",
+    "team": "RSA",
+    "type": "player"
+  },
+  {
+    "id": "RSA-10",
+    "number": "RSA 10",
+    "name": "NKOSINATHI SIBISI",
+    "team": "RSA",
+    "type": "player"
+  },
+  {
+    "id": "RSA-11",
+    "number": "RSA 11",
+    "name": "TEBOHO MOKOENA",
+    "team": "RSA",
+    "type": "player"
+  },
+  {
+    "id": "RSA-12",
+    "number": "RSA 12",
+    "name": "THALENTE MBATHA",
+    "team": "RSA",
+    "type": "player"
+  },
+  {
+    "id": "RSA-13",
+    "number": "RSA 13",
+    "name": "SQUAD",
+    "team": "RSA",
+    "type": "team_photo"
+  },
+  {
+    "id": "RSA-14",
+    "number": "RSA 14",
+    "name": "BATHUSI AUBAAS",
+    "team": "RSA",
+    "type": "player"
+  },
+  {
+    "id": "RSA-15",
+    "number": "RSA 15",
+    "name": "YAYA SITHOLE",
+    "team": "RSA",
+    "type": "player"
+  },
+  {
+    "id": "RSA-16",
+    "number": "RSA 16",
+    "name": "SIPHO MBULE",
+    "team": "RSA",
+    "type": "player"
+  },
+  {
+    "id": "RSA-17",
+    "number": "RSA 17",
+    "name": "LYLE FOSTER",
+    "team": "RSA",
+    "type": "player"
+  },
+  {
+    "id": "RSA-18",
+    "number": "RSA 18",
+    "name": "IQRAAM RAYNERS",
+    "team": "RSA",
+    "type": "player"
+  },
+  {
+    "id": "RSA-19",
+    "number": "RSA 19",
+    "name": "MOHAU NKOTA",
+    "team": "RSA",
+    "type": "player"
+  },
+  {
+    "id": "RSA-20",
+    "number": "RSA 20",
+    "name": "OSWIN APPOLLIS",
+    "team": "RSA",
+    "type": "player"
+  },
+  {
+    "id": "KOR-1",
+    "number": "KOR 1",
+    "name": "BADGE",
+    "team": "KOR",
+    "type": "badge"
+  },
+  {
+    "id": "KOR-2",
+    "number": "KOR 2",
+    "name": "HYEONWOO JO",
+    "team": "KOR",
+    "type": "player"
+  },
+  {
+    "id": "KOR-3",
+    "number": "KOR 3",
+    "name": "SEUNGGYU KIM",
+    "team": "KOR",
+    "type": "player"
+  },
+  {
+    "id": "KOR-4",
+    "number": "KOR 4",
+    "name": "MINJAE KIM",
+    "team": "KOR",
+    "type": "player"
+  },
+  {
+    "id": "KOR-5",
+    "number": "KOR 5",
+    "name": "YUMIN CHO",
+    "team": "KOR",
+    "type": "player"
+  },
+  {
+    "id": "KOR-6",
+    "number": "KOR 6",
+    "name": "YOUNGWOO SEOL",
+    "team": "KOR",
+    "type": "player"
+  },
+  {
+    "id": "KOR-7",
+    "number": "KOR 7",
+    "name": "HANBEOM LEE",
+    "team": "KOR",
+    "type": "player"
+  },
+  {
+    "id": "KOR-8",
+    "number": "KOR 8",
+    "name": "TAESEOK LEE",
+    "team": "KOR",
+    "type": "player"
+  },
+  {
+    "id": "KOR-9",
+    "number": "KOR 9",
+    "name": "MYUNGJAE LEE",
+    "team": "KOR",
+    "type": "player"
+  },
+  {
+    "id": "KOR-10",
+    "number": "KOR 10",
+    "name": "JAESUNG LEE",
+    "team": "KOR",
+    "type": "player"
+  },
+  {
+    "id": "KOR-11",
+    "number": "KOR 11",
+    "name": "INBEOM HWANG",
+    "team": "KOR",
+    "type": "player"
+  },
+  {
+    "id": "KOR-12",
+    "number": "KOR 12",
+    "name": "KANGIN LEE",
+    "team": "KOR",
+    "type": "player"
+  },
+  {
+    "id": "KOR-13",
+    "number": "KOR 13",
+    "name": "SQUAD",
+    "team": "KOR",
+    "type": "team_photo"
+  },
+  {
+    "id": "KOR-14",
+    "number": "KOR 14",
+    "name": "SEUNGHO PAIK",
+    "team": "KOR",
+    "type": "player"
+  },
+  {
+    "id": "KOR-15",
+    "number": "KOR 15",
+    "name": "JENS CASTROP",
+    "team": "KOR",
+    "type": "player"
+  },
+  {
+    "id": "KOR-16",
+    "number": "KOR 16",
+    "name": "DONGGYEONG LEE",
+    "team": "KOR",
+    "type": "player"
+  },
+  {
+    "id": "KOR-17",
+    "number": "KOR 17",
+    "name": "GUESUNG CHO",
+    "team": "KOR",
+    "type": "player"
+  },
+  {
+    "id": "KOR-18",
+    "number": "KOR 18",
+    "name": "HEUNGMIN SON",
+    "team": "KOR",
+    "type": "player"
+  },
+  {
+    "id": "KOR-19",
+    "number": "KOR 19",
+    "name": "HEECHAN HWANG",
+    "team": "KOR",
+    "type": "player"
+  },
+  {
+    "id": "KOR-20",
+    "number": "KOR 20",
+    "name": "HYEONGYU OH",
+    "team": "KOR",
+    "type": "player"
+  },
+  {
+    "id": "CZE-1",
+    "number": "CZE 1",
+    "name": "BADGE",
+    "team": "CZE",
+    "type": "badge"
+  },
+  {
+    "id": "CZE-2",
+    "number": "CZE 2",
+    "name": "MATĚJ KOVÁŘ",
+    "team": "CZE",
+    "type": "player"
+  },
+  {
+    "id": "CZE-3",
+    "number": "CZE 3",
+    "name": "JINDŘICH STANĚK",
+    "team": "CZE",
+    "type": "player"
+  },
+  {
+    "id": "CZE-4",
+    "number": "CZE 4",
+    "name": "LADISLAV KREJČÍ",
+    "team": "CZE",
+    "type": "player"
+  },
+  {
+    "id": "CZE-5",
+    "number": "CZE 5",
+    "name": "VLADIMÍR COUFAL",
+    "team": "CZE",
+    "type": "player"
+  },
+  {
+    "id": "CZE-6",
+    "number": "CZE 6",
+    "name": "JAROSLAV ZELENÝ",
+    "team": "CZE",
+    "type": "player"
+  },
+  {
+    "id": "CZE-7",
+    "number": "CZE 7",
+    "name": "TOMÁŠ HOLEŠ",
+    "team": "CZE",
+    "type": "player"
+  },
+  {
+    "id": "CZE-8",
+    "number": "CZE 8",
+    "name": "DAVID ZIMA",
+    "team": "CZE",
+    "type": "player"
+  },
+  {
+    "id": "CZE-9",
+    "number": "CZE 9",
+    "name": "MICHAL SADÍLEK",
+    "team": "CZE",
+    "type": "player"
+  },
+  {
+    "id": "CZE-10",
+    "number": "CZE 10",
+    "name": "LUKÁŠ PROVOD",
+    "team": "CZE",
+    "type": "player"
+  },
+  {
+    "id": "CZE-11",
+    "number": "CZE 11",
+    "name": "LUKÁŠ ČERV",
+    "team": "CZE",
+    "type": "player"
+  },
+  {
+    "id": "CZE-12",
+    "number": "CZE 12",
+    "name": "TOMÁŠ SOUČEK",
+    "team": "CZE",
+    "type": "player"
+  },
+  {
+    "id": "CZE-13",
+    "number": "CZE 13",
+    "name": "SQUAD",
+    "team": "CZE",
+    "type": "team_photo"
+  },
+  {
+    "id": "CZE-14",
+    "number": "CZE 14",
+    "name": "PAVEL ŠULC",
+    "team": "CZE",
+    "type": "player"
+  },
+  {
+    "id": "CZE-15",
+    "number": "CZE 15",
+    "name": "MATĚJ VYDRA",
+    "team": "CZE",
+    "type": "player"
+  },
+  {
+    "id": "CZE-16",
+    "number": "CZE 16",
+    "name": "VASIL KUŠEJ",
+    "team": "CZE",
+    "type": "player"
+  },
+  {
+    "id": "CZE-17",
+    "number": "CZE 17",
+    "name": "TOMÁŠ CHORÝ",
+    "team": "CZE",
+    "type": "player"
+  },
+  {
+    "id": "CZE-18",
+    "number": "CZE 18",
+    "name": "VÁCLAV ČERNÝ",
+    "team": "CZE",
+    "type": "player"
+  },
+  {
+    "id": "CZE-19",
+    "number": "CZE 19",
+    "name": "ADAM HLOŽEK",
+    "team": "CZE",
+    "type": "player"
+  },
+  {
+    "id": "CZE-20",
+    "number": "CZE 20",
+    "name": "PATRIK SCHICK",
+    "team": "CZE",
+    "type": "player"
+  },
+  {
+    "id": "CAN-1",
+    "number": "CAN 1",
+    "name": "BADGE",
+    "team": "CAN",
+    "type": "badge"
+  },
+  {
+    "id": "CAN-2",
+    "number": "CAN 2",
+    "name": "DAYNE ST. CLAIR",
+    "team": "CAN",
+    "type": "player"
+  },
+  {
+    "id": "CAN-3",
+    "number": "CAN 3",
+    "name": "ALPHONSO DAVIES",
+    "team": "CAN",
+    "type": "player"
+  },
+  {
+    "id": "CAN-4",
+    "number": "CAN 4",
+    "name": "ALISTAIR JOHNSTON",
+    "team": "CAN",
+    "type": "player"
+  },
+  {
+    "id": "CAN-5",
+    "number": "CAN 5",
+    "name": "SAMUEL ADEKUGBE",
+    "team": "CAN",
+    "type": "player"
+  },
+  {
+    "id": "CAN-6",
+    "number": "CAN 6",
+    "name": "SAMUEL RICHIE LARVEA",
+    "team": "CAN",
+    "type": "player"
+  },
+  {
+    "id": "CAN-7",
+    "number": "CAN 7",
+    "name": "DEREK CORNELIUS",
+    "team": "CAN",
+    "type": "player"
+  },
+  {
+    "id": "CAN-8",
+    "number": "CAN 8",
+    "name": "MOÏSE BOMBITO",
+    "team": "CAN",
+    "type": "player"
+  },
+  {
+    "id": "CAN-9",
+    "number": "CAN 9",
+    "name": "KAMAL MILLER",
+    "team": "CAN",
+    "type": "player"
+  },
+  {
+    "id": "CAN-10",
+    "number": "CAN 10",
+    "name": "STEPHEN EUSTÁQUIO",
+    "team": "CAN",
+    "type": "player"
+  },
+  {
+    "id": "CAN-11",
+    "number": "CAN 11",
+    "name": "ISMAËL KONÉ",
+    "team": "CAN",
+    "type": "player"
+  },
+  {
+    "id": "CAN-12",
+    "number": "CAN 12",
+    "name": "JONATHAN OSORIO",
+    "team": "CAN",
+    "type": "player"
+  },
+  {
+    "id": "CAN-13",
+    "number": "CAN 13",
+    "name": "SQUAD",
+    "team": "CAN",
+    "type": "team_photo"
+  },
+  {
+    "id": "CAN-14",
+    "number": "CAN 14",
+    "name": "JACOB SHAFFELBURG",
+    "team": "CAN",
+    "type": "player"
+  },
+  {
+    "id": "CAN-15",
+    "number": "CAN 15",
+    "name": "MATHIEU CHOINIÈRE",
+    "team": "CAN",
+    "type": "player"
+  },
+  {
+    "id": "CAN-16",
+    "number": "CAN 16",
+    "name": "NIKO SIGUR",
+    "team": "CAN",
+    "type": "player"
+  },
+  {
+    "id": "CAN-17",
+    "number": "CAN 17",
+    "name": "TAJON BUCHANAN",
+    "team": "CAN",
+    "type": "player"
+  },
+  {
+    "id": "CAN-18",
+    "number": "CAN 18",
+    "name": "LIAM MILLAR",
+    "team": "CAN",
+    "type": "player"
+  },
+  {
+    "id": "CAN-19",
+    "number": "CAN 19",
+    "name": "DYLE LARIN",
+    "team": "CAN",
+    "type": "player"
+  },
+  {
+    "id": "CAN-20",
+    "number": "CAN 20",
+    "name": "JONATHAN DAVID",
+    "team": "CAN",
+    "type": "player"
+  },
+  {
+    "id": "BIH-1",
+    "number": "BIH 1",
+    "name": "BADGE",
+    "team": "BIH",
+    "type": "badge"
+  },
+  {
+    "id": "BIH-2",
+    "number": "BIH 2",
+    "name": "NIKOLA VASILJ",
+    "team": "BIH",
+    "type": "player"
+  },
+  {
+    "id": "BIH-3",
+    "number": "BIH 3",
+    "name": "AMAR DEDIĆ",
+    "team": "BIH",
+    "type": "player"
+  },
+  {
+    "id": "BIH-4",
+    "number": "BIH 4",
+    "name": "SEAD KOLAŠINAC",
+    "team": "BIH",
+    "type": "player"
+  },
+  {
+    "id": "BIH-5",
+    "number": "BIH 5",
+    "name": "TARIK MUHAREMOVIĆ",
+    "team": "BIH",
+    "type": "player"
+  },
+  {
+    "id": "BIH-6",
+    "number": "BIH 6",
+    "name": "NIHAD MUJAKIĆ",
+    "team": "BIH",
+    "type": "player"
+  },
+  {
+    "id": "BIH-7",
+    "number": "BIH 7",
+    "name": "NIKOLA KATIĆ",
+    "team": "BIH",
+    "type": "player"
+  },
+  {
+    "id": "BIH-8",
+    "number": "BIH 8",
+    "name": "AMIR HADŽIAHMETOVIĆ",
+    "team": "BIH",
+    "type": "player"
+  },
+  {
+    "id": "BIH-9",
+    "number": "BIH 9",
+    "name": "BENJAMIN TAHIROVIĆ",
+    "team": "BIH",
+    "type": "player"
+  },
+  {
+    "id": "BIH-10",
+    "number": "BIH 10",
+    "name": "ARMIN GIGOVIĆ",
+    "team": "BIH",
+    "type": "player"
+  },
+  {
+    "id": "BIH-11",
+    "number": "BIH 11",
+    "name": "IVAN ŠUNJIĆ",
+    "team": "BIH",
+    "type": "player"
+  },
+  {
+    "id": "BIH-12",
+    "number": "BIH 12",
+    "name": "IVAN BAŠIĆ",
+    "team": "BIH",
+    "type": "player"
+  },
+  {
+    "id": "BIH-13",
+    "number": "BIH 13",
+    "name": "SQUAD",
+    "team": "BIH",
+    "type": "team_photo"
+  },
+  {
+    "id": "BIH-14",
+    "number": "BIH 14",
+    "name": "DŽENIS BURNIĆ",
+    "team": "BIH",
+    "type": "player"
+  },
+  {
+    "id": "BIH-15",
+    "number": "BIH 15",
+    "name": "ESMIR BAJRAKTAREVIC",
+    "team": "BIH",
+    "type": "player"
+  },
+  {
+    "id": "BIH-16",
+    "number": "BIH 16",
+    "name": "AMAR MEMIĆ",
+    "team": "BIH",
+    "type": "player"
+  },
+  {
+    "id": "BIH-17",
+    "number": "BIH 17",
+    "name": "ERMEDIN DEMIROVIĆ",
+    "team": "BIH",
+    "type": "player"
+  },
+  {
+    "id": "BIH-18",
+    "number": "BIH 18",
+    "name": "EDIN DŽEKO",
+    "team": "BIH",
+    "type": "player"
+  },
+  {
+    "id": "BIH-19",
+    "number": "BIH 19",
+    "name": "SAMED BAŽDAR",
+    "team": "BIH",
+    "type": "player"
+  },
+  {
+    "id": "BIH-20",
+    "number": "BIH 20",
+    "name": "HARIS TABAKOVIĆ",
+    "team": "BIH",
+    "type": "player"
+  },
+  {
+    "id": "QAT-1",
+    "number": "QAT 1",
+    "name": "BADGE",
+    "team": "QAT",
+    "type": "badge"
+  },
+  {
+    "id": "QAT-2",
+    "number": "QAT 2",
+    "name": "MESHAAL BARSHAM",
+    "team": "QAT",
+    "type": "player"
+  },
+  {
+    "id": "QAT-3",
+    "number": "QAT 3",
+    "name": "SULTAN ALBRAKE",
+    "team": "QAT",
+    "type": "player"
+  },
+  {
+    "id": "QAT-4",
+    "number": "QAT 4",
+    "name": "LUCAS MENDES",
+    "team": "QAT",
+    "type": "player"
+  },
+  {
+    "id": "QAT-5",
+    "number": "QAT 5",
+    "name": "HOMAM AHMED",
+    "team": "QAT",
+    "type": "player"
+  },
+  {
+    "id": "QAT-6",
+    "number": "QAT 6",
+    "name": "BOUALEM KHOUKHI",
+    "team": "QAT",
+    "type": "player"
+  },
+  {
+    "id": "QAT-7",
+    "number": "QAT 7",
+    "name": "PEDRO MIGUEL",
+    "team": "QAT",
+    "type": "player"
+  },
+  {
+    "id": "QAT-8",
+    "number": "QAT 8",
+    "name": "TAREK SALMAN",
+    "team": "QAT",
+    "type": "player"
+  },
+  {
+    "id": "QAT-9",
+    "number": "QAT 9",
+    "name": "MOHAMMED MANNAI",
+    "team": "QAT",
+    "type": "player"
+  },
+  {
+    "id": "QAT-10",
+    "number": "QAT 10",
+    "name": "KARIM BOUDIAF",
+    "team": "QAT",
+    "type": "player"
+  },
+  {
+    "id": "QAT-11",
+    "number": "QAT 11",
+    "name": "ASSIM MADIBO",
+    "team": "QAT",
+    "type": "player"
+  },
+  {
+    "id": "QAT-12",
+    "number": "QAT 12",
+    "name": "HAMED FATEHI",
+    "team": "QAT",
+    "type": "player"
+  },
+  {
+    "id": "QAT-13",
+    "number": "QAT 13",
+    "name": "SQUAD",
+    "team": "QAT",
+    "type": "team_photo"
+  },
+  {
+    "id": "QAT-14",
+    "number": "QAT 14",
+    "name": "MOHAMMED WAAD",
+    "team": "QAT",
+    "type": "player"
+  },
+  {
+    "id": "QAT-15",
+    "number": "QAT 15",
+    "name": "ABDULAZIZ HATEM",
+    "team": "QAT",
+    "type": "player"
+  },
+  {
+    "id": "QAT-16",
+    "number": "QAT 16",
+    "name": "HASSAN AL-HYDOS",
+    "team": "QAT",
+    "type": "player"
+  },
+  {
+    "id": "QAT-17",
+    "number": "QAT 17",
+    "name": "EDMILSON JUNIOR",
+    "team": "QAT",
+    "type": "player"
+  },
+  {
+    "id": "QAT-18",
+    "number": "QAT 18",
+    "name": "AKRAM HASSAN AFIF",
+    "team": "QAT",
+    "type": "player"
+  },
+  {
+    "id": "QAT-19",
+    "number": "QAT 19",
+    "name": "AHMED AL-GANEHI",
+    "team": "QAT",
+    "type": "player"
+  },
+  {
+    "id": "QAT-20",
+    "number": "QAT 20",
+    "name": "ALMOEZ ALI",
+    "team": "QAT",
+    "type": "player"
+  },
+  {
+    "id": "SUI-1",
+    "number": "SUI 1",
+    "name": "BADGE",
+    "team": "SUI",
+    "type": "badge"
+  },
+  {
+    "id": "SUI-2",
+    "number": "SUI 2",
+    "name": "GREGOR KOBEL",
+    "team": "SUI",
+    "type": "player"
+  },
+  {
+    "id": "SUI-3",
+    "number": "SUI 3",
+    "name": "YVON MVOGO",
+    "team": "SUI",
+    "type": "player"
+  },
+  {
+    "id": "SUI-4",
+    "number": "SUI 4",
+    "name": "MANUEL AKANJI",
+    "team": "SUI",
+    "type": "player"
+  },
+  {
+    "id": "SUI-5",
+    "number": "SUI 5",
+    "name": "RICARDO RODRÍGUEZ",
+    "team": "SUI",
+    "type": "player"
+  },
+  {
+    "id": "SUI-6",
+    "number": "SUI 6",
+    "name": "NICO ELVEDI",
+    "team": "SUI",
+    "type": "player"
+  },
+  {
+    "id": "SUI-7",
+    "number": "SUI 7",
+    "name": "AURÈLE AMENDA",
+    "team": "SUI",
+    "type": "player"
+  },
+  {
+    "id": "SUI-8",
+    "number": "SUI 8",
+    "name": "SILVAN WIDMER",
+    "team": "SUI",
+    "type": "player"
+  },
+  {
+    "id": "SUI-9",
+    "number": "SUI 9",
+    "name": "GRANIT XHAKA",
+    "team": "SUI",
+    "type": "player"
+  },
+  {
+    "id": "SUI-10",
+    "number": "SUI 10",
+    "name": "DENIS ZAKARIA",
+    "team": "SUI",
+    "type": "player"
+  },
+  {
+    "id": "SUI-11",
+    "number": "SUI 11",
+    "name": "REMO FREULER",
+    "team": "SUI",
+    "type": "player"
+  },
+  {
+    "id": "SUI-12",
+    "number": "SUI 12",
+    "name": "FABIAN RIEDER",
+    "team": "SUI",
+    "type": "player"
+  },
+  {
+    "id": "SUI-13",
+    "number": "SUI 13",
+    "name": "SQUAD",
+    "team": "SUI",
+    "type": "team_photo"
+  },
+  {
+    "id": "SUI-14",
+    "number": "SUI 14",
+    "name": "ARDON JASHARI",
+    "team": "SUI",
+    "type": "player"
+  },
+  {
+    "id": "SUI-15",
+    "number": "SUI 15",
+    "name": "JOHAN MANZAMBI",
+    "team": "SUI",
+    "type": "player"
+  },
+  {
+    "id": "SUI-16",
+    "number": "SUI 16",
+    "name": "MICHEL AEBISCHER",
+    "team": "SUI",
+    "type": "player"
+  },
+  {
+    "id": "SUI-17",
+    "number": "SUI 17",
+    "name": "BREEL EMBOLO",
+    "team": "SUI",
+    "type": "player"
+  },
+  {
+    "id": "SUI-18",
+    "number": "SUI 18",
+    "name": "RUBÉN VATGAS",
+    "team": "SUI",
+    "type": "player"
+  },
+  {
+    "id": "SUI-19",
+    "number": "SUI 19",
+    "name": "DAN NDOYE",
+    "team": "SUI",
+    "type": "player"
+  },
+  {
+    "id": "SUI-20",
+    "number": "SUI 20",
+    "name": "ZEKI AMDOUNI",
+    "team": "SUI",
+    "type": "player"
+  },
+  {
+    "id": "BRA-1",
+    "number": "BRA 1",
+    "name": "BADGE",
+    "team": "BRA",
+    "type": "badge"
+  },
+  {
+    "id": "BRA-2",
+    "number": "BRA 2",
+    "name": "ALISSON",
+    "team": "BRA",
+    "type": "player"
+  },
+  {
+    "id": "BRA-3",
+    "number": "BRA 3",
+    "name": "BENTO",
+    "team": "BRA",
+    "type": "player"
+  },
+  {
+    "id": "BRA-4",
+    "number": "BRA 4",
+    "name": "MARQUINHOS",
+    "team": "BRA",
+    "type": "player"
+  },
+  {
+    "id": "BRA-5",
+    "number": "BRA 5",
+    "name": "ÉDER MILITÃO",
+    "team": "BRA",
+    "type": "player"
+  },
+  {
+    "id": "BRA-6",
+    "number": "BRA 6",
+    "name": "GABRIEL MAGALHÃES",
+    "team": "BRA",
+    "type": "player"
+  },
+  {
+    "id": "BRA-7",
+    "number": "BRA 7",
+    "name": "DANILO",
+    "team": "BRA",
+    "type": "player"
+  },
+  {
+    "id": "BRA-8",
+    "number": "BRA 8",
+    "name": "WESLEY",
+    "team": "BRA",
+    "type": "player"
+  },
+  {
+    "id": "BRA-9",
+    "number": "BRA 9",
+    "name": "LUCAS PAQUETÁ",
+    "team": "BRA",
+    "type": "player"
+  },
+  {
+    "id": "BRA-10",
+    "number": "BRA 10",
+    "name": "CASEMIEMIRO",
+    "team": "BRA",
+    "type": "player"
+  },
+  {
+    "id": "BRA-11",
+    "number": "BRA 11",
+    "name": "BRUNO GUIMARÃES",
+    "team": "BRA",
+    "type": "player"
+  },
+  {
+    "id": "BRA-12",
+    "number": "BRA 12",
+    "name": "LUIZ HENRIQUE",
+    "team": "BRA",
+    "type": "player"
+  },
+  {
+    "id": "BRA-13",
+    "number": "BRA 13",
+    "name": "SQUAD",
+    "team": "BRA",
+    "type": "team_photo"
+  },
+  {
+    "id": "BRA-14",
+    "number": "BRA 14",
+    "name": "VINICIUS JÚNIOR",
+    "team": "BRA",
+    "type": "player"
+  },
+  {
+    "id": "BRA-15",
+    "number": "BRA 15",
+    "name": "RODRYGO",
+    "team": "BRA",
+    "type": "player"
+  },
+  {
+    "id": "BRA-16",
+    "number": "BRA 16",
+    "name": "JOÃO PEDRO",
+    "team": "BRA",
+    "type": "player"
+  },
+  {
+    "id": "BRA-17",
+    "number": "BRA 17",
+    "name": "MATHEUS CUNHA",
+    "team": "BRA",
+    "type": "player"
+  },
+  {
+    "id": "BRA-18",
+    "number": "BRA 18",
+    "name": "GABRIEL MARTINELLI",
+    "team": "BRA",
+    "type": "player"
+  },
+  {
+    "id": "BRA-19",
+    "number": "BRA 19",
+    "name": "RAPHINHA",
+    "team": "BRA",
+    "type": "player"
+  },
+  {
+    "id": "BRA-20",
+    "number": "BRA 20",
+    "name": "ESTÉVÃO",
+    "team": "BRA",
+    "type": "player"
+  },
+  {
+    "id": "MAR-1",
+    "number": "MAR 1",
+    "name": "BADGE",
+    "team": "MAR",
+    "type": "badge"
+  },
+  {
+    "id": "MAR-2",
+    "number": "MAR 2",
+    "name": "YASSINE BOUNOU",
+    "team": "MAR",
+    "type": "player"
+  },
+  {
+    "id": "MAR-3",
+    "number": "MAR 3",
+    "name": "MUNIR EL KAJOUI",
+    "team": "MAR",
+    "type": "player"
+  },
+  {
+    "id": "MAR-4",
+    "number": "MAR 4",
+    "name": "ACHRAF HAKIMI",
+    "team": "MAR",
+    "type": "player"
+  },
+  {
+    "id": "MAR-5",
+    "number": "MAR 5",
+    "name": "NOUSSAIR MAZRAOUI",
+    "team": "MAR",
+    "type": "player"
+  },
+  {
+    "id": "MAR-6",
+    "number": "MAR 6",
+    "name": "NAYEF AGUERD",
+    "team": "MAR",
+    "type": "player"
+  },
+  {
+    "id": "MAR-7",
+    "number": "MAR 7",
+    "name": "ROMAIN SAÏSS",
+    "team": "MAR",
+    "type": "player"
+  },
+  {
+    "id": "MAR-8",
+    "number": "MAR 8",
+    "name": "JAWAD EL YAMIQ",
+    "team": "MAR",
+    "type": "player"
+  },
+  {
+    "id": "MAR-9",
+    "number": "MAR 9",
+    "name": "ADAM MASINA",
+    "team": "MAR",
+    "type": "player"
+  },
+  {
+    "id": "MAR-10",
+    "number": "MAR 10",
+    "name": "SOFYAN AMRABAT",
+    "team": "MAR",
+    "type": "player"
+  },
+  {
+    "id": "MAR-11",
+    "number": "MAR 11",
+    "name": "AZZEDINE OUNAHI",
+    "team": "MAR",
+    "type": "player"
+  },
+  {
+    "id": "MAR-12",
+    "number": "MAR 12",
+    "name": "ELIESSE BEN SEGHIR",
+    "team": "MAR",
+    "type": "player"
+  },
+  {
+    "id": "MAR-13",
+    "number": "MAR 13",
+    "name": "SQUAD",
+    "team": "MAR",
+    "type": "team_photo"
+  },
+  {
+    "id": "MAR-14",
+    "number": "MAR 14",
+    "name": "BILAL EL KHANNOUSS",
+    "team": "MAR",
+    "type": "player"
+  },
+  {
+    "id": "MAR-15",
+    "number": "MAR 15",
+    "name": "ISMAEL SAIBARI",
+    "team": "MAR",
+    "type": "player"
+  },
+  {
+    "id": "MAR-16",
+    "number": "MAR 16",
+    "name": "YOUSSEF EN-NESYRI",
+    "team": "MAR",
+    "type": "player"
+  },
+  {
+    "id": "MAR-17",
+    "number": "MAR 17",
+    "name": "ABDE EZZALZOULI",
+    "team": "MAR",
+    "type": "player"
+  },
+  {
+    "id": "MAR-18",
+    "number": "MAR 18",
+    "name": "SOUFIANE RAHIMI",
+    "team": "MAR",
+    "type": "player"
+  },
+  {
+    "id": "MAR-19",
+    "number": "MAR 19",
+    "name": "BRAHIM DÍAZ",
+    "team": "MAR",
+    "type": "player"
+  },
+  {
+    "id": "MAR-20",
+    "number": "MAR 20",
+    "name": "AYOUB EL KAABI",
+    "team": "MAR",
+    "type": "player"
+  },
+  {
+    "id": "HAI-1",
+    "number": "HAI 1",
+    "name": "BADGE",
+    "team": "HAI",
+    "type": "badge"
+  },
+  {
+    "id": "HAI-2",
+    "number": "HAI 2",
+    "name": "JOHNY PLACIDE",
+    "team": "HAI",
+    "type": "player"
+  },
+  {
+    "id": "HAI-3",
+    "number": "HAI 3",
+    "name": "CARLENS ARCUS",
+    "team": "HAI",
+    "type": "player"
+  },
+  {
+    "id": "HAI-4",
+    "number": "HAI 4",
+    "name": "MARTIN EXPÉRIENCE",
+    "team": "HAI",
+    "type": "player"
+  },
+  {
+    "id": "HAI-5",
+    "number": "HAI 5",
+    "name": "JEAN-KÉVIN DUVERNE",
+    "team": "HAI",
+    "type": "player"
+  },
+  {
+    "id": "HAI-6",
+    "number": "HAI 6",
+    "name": "RICARDO ADÉ",
+    "team": "HAI",
+    "type": "player"
+  },
+  {
+    "id": "HAI-7",
+    "number": "HAI 7",
+    "name": "DUKE LACROIX",
+    "team": "HAI",
+    "type": "player"
+  },
+  {
+    "id": "HAI-8",
+    "number": "HAI 8",
+    "name": "GARVEN METUSALA",
+    "team": "HAI",
+    "type": "player"
+  },
+  {
+    "id": "HAI-9",
+    "number": "HAI 9",
+    "name": "HANNES DELCROIX",
+    "team": "HAI",
+    "type": "player"
+  },
+  {
+    "id": "HAI-10",
+    "number": "HAI 10",
+    "name": "LEVERTON PIERRE",
+    "team": "HAI",
+    "type": "player"
+  },
+  {
+    "id": "HAI-11",
+    "number": "HAI 11",
+    "name": "DANLEY JEAN JACQUES",
+    "team": "HAI",
+    "type": "player"
+  },
+  {
+    "id": "HAI-12",
+    "number": "HAI 12",
+    "name": "JEAN-RICNER BELLEGARDE",
+    "team": "HAI",
+    "type": "player"
+  },
+  {
+    "id": "HAI-13",
+    "number": "HAI 13",
+    "name": "SQUAD",
+    "team": "HAI",
+    "type": "team_photo"
+  },
+  {
+    "id": "HAI-14",
+    "number": "HAI 14",
+    "name": "CHRISTOPHER ATTYS",
+    "team": "HAI",
+    "type": "player"
+  },
+  {
+    "id": "HAI-15",
+    "number": "HAI 15",
+    "name": "DERRICK ETIENNE JR.",
+    "team": "HAI",
+    "type": "player"
+  },
+  {
+    "id": "HAI-16",
+    "number": "HAI 16",
+    "name": "JOSUÉ CASIMIR",
+    "team": "HAI",
+    "type": "player"
+  },
+  {
+    "id": "HAI-17",
+    "number": "HAI 17",
+    "name": "RUBEN PROVIDENCE",
+    "team": "HAI",
+    "type": "player"
+  },
+  {
+    "id": "HAI-18",
+    "number": "HAI 18",
+    "name": "DUCKENS NAZON",
+    "team": "HAI",
+    "type": "player"
+  },
+  {
+    "id": "HAI-19",
+    "number": "HAI 19",
+    "name": "LOUICIUS DEEDSON",
+    "team": "HAI",
+    "type": "player"
+  },
+  {
+    "id": "HAI-20",
+    "number": "HAI 20",
+    "name": "FRANTZDY PIERROT",
+    "team": "HAI",
+    "type": "player"
+  },
+  {
+    "id": "SCO-1",
+    "number": "SCO 1",
+    "name": "BADGE",
+    "team": "SCO",
+    "type": "badge"
+  },
+  {
+    "id": "SCO-2",
+    "number": "SCO 2",
+    "name": "ANGUS GUNN",
+    "team": "SCO",
+    "type": "player"
+  },
+  {
+    "id": "SCO-3",
+    "number": "SCO 3",
+    "name": "JACK HENDRY",
+    "team": "SCO",
+    "type": "player"
+  },
+  {
+    "id": "SCO-4",
+    "number": "SCO 4",
+    "name": "KIERAN TIERNEY",
+    "team": "SCO",
+    "type": "player"
+  },
+  {
+    "id": "SCO-5",
+    "number": "SCO 5",
+    "name": "AARON HICKEY",
+    "team": "SCO",
+    "type": "player"
+  },
+  {
+    "id": "SCO-6",
+    "number": "SCO 6",
+    "name": "ANDREW ROBERTSON",
+    "team": "SCO",
+    "type": "player"
+  },
+  {
+    "id": "SCO-7",
+    "number": "SCO 7",
+    "name": "SCOTT MCKENNA",
+    "team": "SCO",
+    "type": "player"
+  },
+  {
+    "id": "SCO-8",
+    "number": "SCO 8",
+    "name": "JOHN SOUTTAR",
+    "team": "SCO",
+    "type": "player"
+  },
+  {
+    "id": "SCO-9",
+    "number": "SCO 9",
+    "name": "ANTHONY RALSTON",
+    "team": "SCO",
+    "type": "player"
+  },
+  {
+    "id": "SCO-10",
+    "number": "SCO 10",
+    "name": "GRANT HANLEY",
+    "team": "SCO",
+    "type": "player"
+  },
+  {
+    "id": "SCO-11",
+    "number": "SCO 11",
+    "name": "SCOTT MCTOMINAY",
+    "team": "SCO",
+    "type": "player"
+  },
+  {
+    "id": "SCO-12",
+    "number": "SCO 12",
+    "name": "BILLY GILMOUR",
+    "team": "SCO",
+    "type": "player"
+  },
+  {
+    "id": "SCO-13",
+    "number": "SCO 13",
+    "name": "SQUAD",
+    "team": "SCO",
+    "type": "team_photo"
+  },
+  {
+    "id": "SCO-14",
+    "number": "SCO 14",
+    "name": "LEWIS FERGUSON",
+    "team": "SCO",
+    "type": "player"
+  },
+  {
+    "id": "SCO-15",
+    "number": "SCO 15",
+    "name": "RYAN CHRISTIE",
+    "team": "SCO",
+    "type": "player"
+  },
+  {
+    "id": "SCO-16",
+    "number": "SCO 16",
+    "name": "KENNY MCLEAN",
+    "team": "SCO",
+    "type": "player"
+  },
+  {
+    "id": "SCO-17",
+    "number": "SCO 17",
+    "name": "JOHN MCGINN",
+    "team": "SCO",
+    "type": "player"
+  },
+  {
+    "id": "SCO-18",
+    "number": "SCO 18",
+    "name": "LYNDON DYKES",
+    "team": "SCO",
+    "type": "player"
+  },
+  {
+    "id": "SCO-19",
+    "number": "SCO 19",
+    "name": "CHÉ ADAMS",
+    "team": "SCO",
+    "type": "player"
+  },
+  {
+    "id": "SCO-20",
+    "number": "SCO 20",
+    "name": "BEN GANNON-DOAK",
+    "team": "SCO",
+    "type": "player"
+  },
+  {
+    "id": "USA-1",
+    "number": "USA 1",
+    "name": "BADGE",
+    "team": "USA",
+    "type": "badge"
+  },
+  {
+    "id": "USA-2",
+    "number": "USA 2",
+    "name": "MATT FREESE",
+    "team": "USA",
+    "type": "player"
+  },
+  {
+    "id": "USA-3",
+    "number": "USA 3",
+    "name": "CHRIS RICHARDS",
+    "team": "USA",
+    "type": "player"
+  },
+  {
+    "id": "USA-4",
+    "number": "USA 4",
+    "name": "TIM REAM",
+    "team": "USA",
+    "type": "player"
+  },
+  {
+    "id": "USA-5",
+    "number": "USA 5",
+    "name": "MARK MCKENZIE",
+    "team": "USA",
+    "type": "player"
+  },
+  {
+    "id": "USA-6",
+    "number": "USA 6",
+    "name": "ALEX FREEMAN",
+    "team": "USA",
+    "type": "player"
+  },
+  {
+    "id": "USA-7",
+    "number": "USA 7",
+    "name": "ANTONEE ROBINSON",
+    "team": "USA",
+    "type": "player"
+  },
+  {
+    "id": "USA-8",
+    "number": "USA 8",
+    "name": "TYLER ADAMS",
+    "team": "USA",
+    "type": "player"
+  },
+  {
+    "id": "USA-9",
+    "number": "USA 9",
+    "name": "TANNER TESSMANN",
+    "team": "USA",
+    "type": "player"
+  },
+  {
+    "id": "USA-10",
+    "number": "USA 10",
+    "name": "WESTON MCKENNY",
+    "team": "USA",
+    "type": "player"
+  },
+  {
+    "id": "USA-11",
+    "number": "USA 11",
+    "name": "CHRISTIAN ROLDAN",
+    "team": "USA",
+    "type": "player"
+  },
+  {
+    "id": "USA-12",
+    "number": "USA 12",
+    "name": "TIMOTHY WEAH",
+    "team": "USA",
+    "type": "player"
+  },
+  {
+    "id": "USA-13",
+    "number": "USA 13",
+    "name": "SQUAD",
+    "team": "USA",
+    "type": "team_photo"
+  },
+  {
+    "id": "USA-14",
+    "number": "USA 14",
+    "name": "DIEGO LUNA",
+    "team": "USA",
+    "type": "player"
+  },
+  {
+    "id": "USA-15",
+    "number": "USA 15",
+    "name": "MALIK TILLMAN",
+    "team": "USA",
+    "type": "player"
+  },
+  {
+    "id": "USA-16",
+    "number": "USA 16",
+    "name": "CHRISTIAN PULISIC",
+    "team": "USA",
+    "type": "player"
+  },
+  {
+    "id": "USA-17",
+    "number": "USA 17",
+    "name": "BRENDEN AARONSON",
+    "team": "USA",
+    "type": "player"
+  },
+  {
+    "id": "USA-18",
+    "number": "USA 18",
+    "name": "RICARDO PEPI",
+    "team": "USA",
+    "type": "player"
+  },
+  {
+    "id": "USA-19",
+    "number": "USA 19",
+    "name": "HAJI WRIGHT",
+    "team": "USA",
+    "type": "player"
+  },
+  {
+    "id": "USA-20",
+    "number": "USA 20",
+    "name": "FOLARIN BALOGUN",
+    "team": "USA",
+    "type": "player"
+  },
+  {
+    "id": "PAR-1",
+    "number": "PAR 1",
+    "name": "BADGE",
+    "team": "PAR",
+    "type": "badge"
+  },
+  {
+    "id": "PAR-2",
+    "number": "PAR 2",
+    "name": "ROBERTO FERNÁNDEZ",
+    "team": "PAR",
+    "type": "player"
+  },
+  {
+    "id": "PAR-3",
+    "number": "PAR 3",
+    "name": "ORLANDO GILL",
+    "team": "PAR",
+    "type": "player"
+  },
+  {
+    "id": "PAR-4",
+    "number": "PAR 4",
+    "name": "DIEGO GÓMEZ",
+    "team": "PAR",
+    "type": "player"
+  },
+  {
+    "id": "PAR-5",
+    "number": "PAR 5",
+    "name": "FABIÁN BALBUENA",
+    "team": "PAR",
+    "type": "player"
+  },
+  {
+    "id": "PAR-6",
+    "number": "PAR 6",
+    "name": "JUAN JOSÉ CÁCERES",
+    "team": "PAR",
+    "type": "player"
+  },
+  {
+    "id": "PAR-7",
+    "number": "PAR 7",
+    "name": "OMAR ALDERETE",
+    "team": "PAR",
+    "type": "player"
+  },
+  {
+    "id": "PAR-8",
+    "number": "PAR 8",
+    "name": "JÚNIOR ALONSO",
+    "team": "PAR",
+    "type": "player"
+  },
+  {
+    "id": "PAR-9",
+    "number": "PAR 9",
+    "name": "MATHÍAS VILLASANTI",
+    "team": "PAR",
+    "type": "player"
+  },
+  {
+    "id": "PAR-10",
+    "number": "PAR 10",
+    "name": "DIEGO GÓMEZ",
+    "team": "PAR",
+    "type": "player"
+  },
+  {
+    "id": "PAR-11",
+    "number": "PAR 11",
+    "name": "DAMIÁN BOBADILLA",
+    "team": "PAR",
+    "type": "player"
+  },
+  {
+    "id": "PAR-12",
+    "number": "PAR 12",
+    "name": "ANDRÉS CUBAS",
+    "team": "PAR",
+    "type": "player"
+  },
+  {
+    "id": "PAR-13",
+    "number": "PAR 13",
+    "name": "SQUAD",
+    "team": "PAR",
+    "type": "team_photo"
+  },
+  {
+    "id": "PAR-14",
+    "number": "PAR 14",
+    "name": "MATÍAS GALARZA FONDA",
+    "team": "PAR",
+    "type": "player"
+  },
+  {
+    "id": "PAR-15",
+    "number": "PAR 15",
+    "name": "JULIO ENCISO",
+    "team": "PAR",
+    "type": "player"
+  },
+  {
+    "id": "PAR-16",
+    "number": "PAR 16",
+    "name": "ALEJANDRO ROMERO GAMARRA",
+    "team": "PAR",
+    "type": "player"
+  },
+  {
+    "id": "PAR-17",
+    "number": "PAR 17",
+    "name": "MIGUEL ALMIRÓN",
+    "team": "PAR",
+    "type": "player"
+  },
+  {
+    "id": "PAR-18",
+    "number": "PAR 18",
+    "name": "RAMÓN SOSA",
+    "team": "PAR",
+    "type": "player"
+  },
+  {
+    "id": "PAR-19",
+    "number": "PAR 19",
+    "name": "ÁNGEL ROMERO",
+    "team": "PAR",
+    "type": "player"
+  },
+  {
+    "id": "PAR-20",
+    "number": "PAR 20",
+    "name": "ANTONIO SANABRIA",
+    "team": "PAR",
+    "type": "player"
+  },
+  {
+    "id": "AUS-1",
+    "number": "AUS 1",
+    "name": "BADGE",
+    "team": "AUS",
+    "type": "badge"
+  },
+  {
+    "id": "AUS-2",
+    "number": "AUS 2",
+    "name": "MATHEW RYAN",
+    "team": "AUS",
+    "type": "player"
+  },
+  {
+    "id": "AUS-3",
+    "number": "AUS 3",
+    "name": "JOE GAUCI",
+    "team": "AUS",
+    "type": "player"
+  },
+  {
+    "id": "AUS-4",
+    "number": "AUS 4",
+    "name": "HARRY SOUTTAR",
+    "team": "AUS",
+    "type": "player"
+  },
+  {
+    "id": "AUS-5",
+    "number": "AUS 5",
+    "name": "ALESSANDRO CIRCATI",
+    "team": "AUS",
+    "type": "player"
+  },
+  {
+    "id": "AUS-6",
+    "number": "AUS 6",
+    "name": "JORDAN BOS",
+    "team": "AUS",
+    "type": "player"
+  },
+  {
+    "id": "AUS-7",
+    "number": "AUS 7",
+    "name": "AZIZ BEHICH",
+    "team": "AUS",
+    "type": "player"
+  },
+  {
+    "id": "AUS-8",
+    "number": "AUS 8",
+    "name": "CAMERON BURGESS",
+    "team": "AUS",
+    "type": "player"
+  },
+  {
+    "id": "AUS-9",
+    "number": "AUS 9",
+    "name": "LEWIS MILLER",
+    "team": "AUS",
+    "type": "player"
+  },
+  {
+    "id": "AUS-10",
+    "number": "AUS 10",
+    "name": "MILOS DEGENEK",
+    "team": "AUS",
+    "type": "player"
+  },
+  {
+    "id": "AUS-11",
+    "number": "AUS 11",
+    "name": "JACKSON IRVINE",
+    "team": "AUS",
+    "type": "player"
+  },
+  {
+    "id": "AUS-12",
+    "number": "AUS 12",
+    "name": "RILEY MCGREE",
+    "team": "AUS",
+    "type": "player"
+  },
+  {
+    "id": "AUS-13",
+    "number": "AUS 13",
+    "name": "SQUAD",
+    "team": "AUS",
+    "type": "team_photo"
+  },
+  {
+    "id": "AUS-14",
+    "number": "AUS 14",
+    "name": "AIDEN O&#x27;NEILL",
+    "team": "AUS",
+    "type": "player"
+  },
+  {
+    "id": "AUS-15",
+    "number": "AUS 15",
+    "name": "CONNOR METCALFE",
+    "team": "AUS",
+    "type": "player"
+  },
+  {
+    "id": "AUS-16",
+    "number": "AUS 16",
+    "name": "PATRICK YAZBEK",
+    "team": "AUS",
+    "type": "player"
+  },
+  {
+    "id": "AUS-17",
+    "number": "AUS 17",
+    "name": "CRAIG GOODWIN",
+    "team": "AUS",
+    "type": "player"
+  },
+  {
+    "id": "AUS-18",
+    "number": "AUS 18",
+    "name": "KUSINI YENGI",
+    "team": "AUS",
+    "type": "player"
+  },
+  {
+    "id": "AUS-19",
+    "number": "AUS 19",
+    "name": "NESTORY IRANKUNDA",
+    "team": "AUS",
+    "type": "player"
+  },
+  {
+    "id": "AUS-20",
+    "number": "AUS 20",
+    "name": "MOHAMED TOURÉ",
+    "team": "AUS",
+    "type": "player"
+  },
+  {
+    "id": "TUR-1",
+    "number": "TUR 1",
+    "name": "BADGE",
+    "team": "TUR",
+    "type": "badge"
+  },
+  {
+    "id": "TUR-2",
+    "number": "TUR 2",
+    "name": "UĞURCAN ÇAKIR",
+    "team": "TUR",
+    "type": "player"
+  },
+  {
+    "id": "TUR-3",
+    "number": "TUR 3",
+    "name": "MERT MÜLDÜR",
+    "team": "TUR",
+    "type": "player"
+  },
+  {
+    "id": "TUR-4",
+    "number": "TUR 4",
+    "name": "ZEKI ÇELIK",
+    "team": "TUR",
+    "type": "player"
+  },
+  {
+    "id": "TUR-5",
+    "number": "TUR 5",
+    "name": "ABDÜLKEREÍM BARDAKGI",
+    "team": "TUR",
+    "type": "player"
+  },
+  {
+    "id": "TUR-6",
+    "number": "TUR 6",
+    "name": "ÇAĞLAR SÖYÜNCÜ",
+    "team": "TUR",
+    "type": "player"
+  },
+  {
+    "id": "TUR-7",
+    "number": "TUR 7",
+    "name": "MERIH DEMIRAL",
+    "team": "TUR",
+    "type": "player"
+  },
+  {
+    "id": "TUR-8",
+    "number": "TUR 8",
+    "name": "FERDI KADIOĞLU",
+    "team": "TUR",
+    "type": "player"
+  },
+  {
+    "id": "TUR-9",
+    "number": "TUR 9",
+    "name": "KAAN AYHAN",
+    "team": "TUR",
+    "type": "player"
+  },
+  {
+    "id": "TUR-10",
+    "number": "TUR 10",
+    "name": "ISMAIL YÜKSEK",
+    "team": "TUR",
+    "type": "player"
+  },
+  {
+    "id": "TUR-11",
+    "number": "TUR 11",
+    "name": "HAKAN ÇALHANOĞLU",
+    "team": "TUR",
+    "type": "player"
+  },
+  {
+    "id": "TUR-12",
+    "number": "TUR 12",
+    "name": "ORKUN KÖKÇÜ",
+    "team": "TUR",
+    "type": "player"
+  },
+  {
+    "id": "TUR-13",
+    "number": "TUR 13",
+    "name": "SQUAD",
+    "team": "TUR",
+    "type": "team_photo"
+  },
+  {
+    "id": "TUR-14",
+    "number": "TUR 14",
+    "name": "ARDA GÜLER",
+    "team": "TUR",
+    "type": "player"
+  },
+  {
+    "id": "TUR-15",
+    "number": "TUR 15",
+    "name": "IRFAN CAN KAHVECI",
+    "team": "TUR",
+    "type": "player"
+  },
+  {
+    "id": "TUR-16",
+    "number": "TUR 16",
+    "name": "YUNUS AKGÜN",
+    "team": "TUR",
+    "type": "player"
+  },
+  {
+    "id": "TUR-17",
+    "number": "TUR 17",
+    "name": "CAN UZUN",
+    "team": "TUR",
+    "type": "player"
+  },
+  {
+    "id": "TUR-18",
+    "number": "TUR 18",
+    "name": "BARIŞ ALPER YILMAZ",
+    "team": "TUR",
+    "type": "player"
+  },
+  {
+    "id": "TUR-19",
+    "number": "TUR 19",
+    "name": "KEREM AKTÜRKOĞLU",
+    "team": "TUR",
+    "type": "player"
+  },
+  {
+    "id": "TUR-20",
+    "number": "TUR 20",
+    "name": "KENAN YILDIZ",
+    "team": "TUR",
+    "type": "player"
+  },
+  {
+    "id": "GER-1",
+    "number": "GER 1",
+    "name": "BADGE",
+    "team": "GER",
+    "type": "badge"
+  },
+  {
+    "id": "GER-2",
+    "number": "GER 2",
+    "name": "MARC-ANDRÉ TER STEGEN",
+    "team": "GER",
+    "type": "player"
+  },
+  {
+    "id": "GER-3",
+    "number": "GER 3",
+    "name": "JONATHAN TAH",
+    "team": "GER",
+    "type": "player"
+  },
+  {
+    "id": "GER-4",
+    "number": "GER 4",
+    "name": "DAVID RAUM",
+    "team": "GER",
+    "type": "player"
+  },
+  {
+    "id": "GER-5",
+    "number": "GER 5",
+    "name": "NICO SCHLOTTERBECK",
+    "team": "GER",
+    "type": "player"
+  },
+  {
+    "id": "GER-6",
+    "number": "GER 6",
+    "name": "ANTONIO RÜDIGER",
+    "team": "GER",
+    "type": "player"
+  },
+  {
+    "id": "GER-7",
+    "number": "GER 7",
+    "name": "WALDEMAR ANTON",
+    "team": "GER",
+    "type": "player"
+  },
+  {
+    "id": "GER-8",
+    "number": "GER 8",
+    "name": "RIDLE BAKU",
+    "team": "GER",
+    "type": "player"
+  },
+  {
+    "id": "GER-9",
+    "number": "GER 9",
+    "name": "MAXIMILIAN MITTELSTADT",
+    "team": "GER",
+    "type": "player"
+  },
+  {
+    "id": "GER-10",
+    "number": "GER 10",
+    "name": "JOSHUA KIMMICH",
+    "team": "GER",
+    "type": "player"
+  },
+  {
+    "id": "GER-11",
+    "number": "GER 11",
+    "name": "FLORIAN WIRTZ",
+    "team": "GER",
+    "type": "player"
+  },
+  {
+    "id": "GER-12",
+    "number": "GER 12",
+    "name": "FELIX NMECHA",
+    "team": "GER",
+    "type": "player"
+  },
+  {
+    "id": "GER-13",
+    "number": "GER 13",
+    "name": "SQUAD",
+    "team": "GER",
+    "type": "team_photo"
+  },
+  {
+    "id": "GER-14",
+    "number": "GER 14",
+    "name": "LEON GORETZKA",
+    "team": "GER",
+    "type": "player"
+  },
+  {
+    "id": "GER-15",
+    "number": "GER 15",
+    "name": "JAMAL MUSIALA",
+    "team": "GER",
+    "type": "player"
+  },
+  {
+    "id": "GER-16",
+    "number": "GER 16",
+    "name": "SERGE GNABRY",
+    "team": "GER",
+    "type": "player"
+  },
+  {
+    "id": "GER-17",
+    "number": "GER 17",
+    "name": "KAI HAVERTZ",
+    "team": "GER",
+    "type": "player"
+  },
+  {
+    "id": "GER-18",
+    "number": "GER 18",
+    "name": "LEROY SANÉ",
+    "team": "GER",
+    "type": "player"
+  },
+  {
+    "id": "GER-19",
+    "number": "GER 19",
+    "name": "KARIM ADEYEMI",
+    "team": "GER",
+    "type": "player"
+  },
+  {
+    "id": "GER-20",
+    "number": "GER 20",
+    "name": "NICK WOLTEMADE",
+    "team": "GER",
+    "type": "player"
+  },
+  {
+    "id": "CUW-1",
+    "number": "CUW 1",
+    "name": "BADGE",
+    "team": "CUW",
+    "type": "badge"
+  },
+  {
+    "id": "CUW-2",
+    "number": "CUW 2",
+    "name": "ELOY ROOM",
+    "team": "CUW",
+    "type": "player"
+  },
+  {
+    "id": "CUW-3",
+    "number": "CUW 3",
+    "name": "ARMANDO OBISPO",
+    "team": "CUW",
+    "type": "player"
+  },
+  {
+    "id": "CUW-4",
+    "number": "CUW 4",
+    "name": "SHEREL FLORANUS",
+    "team": "CUW",
+    "type": "player"
+  },
+  {
+    "id": "CUW-5",
+    "number": "CUW 5",
+    "name": "JURIEN GAARI",
+    "team": "CUW",
+    "type": "player"
+  },
+  {
+    "id": "CUW-6",
+    "number": "CUW 6",
+    "name": "JOSHUA BREMET",
+    "team": "CUW",
+    "type": "player"
+  },
+  {
+    "id": "CUW-7",
+    "number": "CUW 7",
+    "name": "ROSHON VAN EIJMA",
+    "team": "CUW",
+    "type": "player"
+  },
+  {
+    "id": "CUW-8",
+    "number": "CUW 8",
+    "name": "SHURANDY SAMBO",
+    "team": "CUW",
+    "type": "player"
+  },
+  {
+    "id": "CUW-9",
+    "number": "CUW 9",
+    "name": "LIVANO COMENENCIA",
+    "team": "CUW",
+    "type": "player"
+  },
+  {
+    "id": "CUW-10",
+    "number": "CUW 10",
+    "name": "GODFRIED ROEMERATOE",
+    "team": "CUW",
+    "type": "player"
+  },
+  {
+    "id": "CUW-11",
+    "number": "CUW 11",
+    "name": "JUNINHO BACUNA",
+    "team": "CUW",
+    "type": "player"
+  },
+  {
+    "id": "CUW-12",
+    "number": "CUW 12",
+    "name": "LEANDRO BACUNA",
+    "team": "CUW",
+    "type": "player"
+  },
+  {
+    "id": "CUW-13",
+    "number": "CUW 13",
+    "name": "SQUAD",
+    "team": "CUW",
+    "type": "team_photo"
+  },
+  {
+    "id": "CUW-14",
+    "number": "CUW 14",
+    "name": "TAHITH CHONG",
+    "team": "CUW",
+    "type": "player"
+  },
+  {
+    "id": "CUW-15",
+    "number": "CUW 15",
+    "name": "KENJI GORRÉ",
+    "team": "CUW",
+    "type": "player"
+  },
+  {
+    "id": "CUW-16",
+    "number": "CUW 16",
+    "name": "JEARL MARGARITHA",
+    "team": "CUW",
+    "type": "player"
+  },
+  {
+    "id": "CUW-17",
+    "number": "CUW 17",
+    "name": "JÜRGEN LOCADIA",
+    "team": "CUW",
+    "type": "player"
+  },
+  {
+    "id": "CUW-18",
+    "number": "CUW 18",
+    "name": "JEREMY ANTONISSE",
+    "team": "CUW",
+    "type": "player"
+  },
+  {
+    "id": "CUW-19",
+    "number": "CUW 19",
+    "name": "GERVANE KASTANEER",
+    "team": "CUW",
+    "type": "player"
+  },
+  {
+    "id": "CUW-20",
+    "number": "CUW 20",
+    "name": "SONTJE HANSEN",
+    "team": "CUW",
+    "type": "player"
+  },
+  {
+    "id": "CIV-1",
+    "number": "CIV 1",
+    "name": "BADGE",
+    "team": "CIV",
+    "type": "badge"
+  },
+  {
+    "id": "CIV-2",
+    "number": "CIV 2",
+    "name": "YAHIA FOFANA",
+    "team": "CIV",
+    "type": "player"
+  },
+  {
+    "id": "CIV-3",
+    "number": "CIV 3",
+    "name": "GHISLAIN KONAN",
+    "team": "CIV",
+    "type": "player"
+  },
+  {
+    "id": "CIV-4",
+    "number": "CIV 4",
+    "name": "WILFRIED SINGO",
+    "team": "CIV",
+    "type": "player"
+  },
+  {
+    "id": "CIV-5",
+    "number": "CIV 5",
+    "name": "ODILON KOSSOUNOU",
+    "team": "CIV",
+    "type": "player"
+  },
+  {
+    "id": "CIV-6",
+    "number": "CIV 6",
+    "name": "EVAN NDICKA",
+    "team": "CIV",
+    "type": "player"
+  },
+  {
+    "id": "CIV-7",
+    "number": "CIV 7",
+    "name": "WILLY BOLY",
+    "team": "CIV",
+    "type": "player"
+  },
+  {
+    "id": "CIV-8",
+    "number": "CIV 8",
+    "name": "EMMANUEL AGBADOU",
+    "team": "CIV",
+    "type": "player"
+  },
+  {
+    "id": "CIV-9",
+    "number": "CIV 9",
+    "name": "OUSMANE DIOMANDE",
+    "team": "CIV",
+    "type": "player"
+  },
+  {
+    "id": "CIV-10",
+    "number": "CIV 10",
+    "name": "FRANCK KESSIÉ",
+    "team": "CIV",
+    "type": "player"
+  },
+  {
+    "id": "CIV-11",
+    "number": "CIV 11",
+    "name": "SEKO FOFANA",
+    "team": "CIV",
+    "type": "player"
+  },
+  {
+    "id": "CIV-12",
+    "number": "CIV 12",
+    "name": "IBRAHIM SANGARÉ",
+    "team": "CIV",
+    "type": "player"
+  },
+  {
+    "id": "CIV-13",
+    "number": "CIV 13",
+    "name": "SQUAD",
+    "team": "CIV",
+    "type": "team_photo"
+  },
+  {
+    "id": "CIV-14",
+    "number": "CIV 14",
+    "name": "JEAN-PHILIPPE GBAMIN",
+    "team": "CIV",
+    "type": "player"
+  },
+  {
+    "id": "CIV-15",
+    "number": "CIV 15",
+    "name": "AMAD DIALLO",
+    "team": "CIV",
+    "type": "player"
+  },
+  {
+    "id": "CIV-16",
+    "number": "CIV 16",
+    "name": "SÉBASTIEN HALLER",
+    "team": "CIV",
+    "type": "player"
+  },
+  {
+    "id": "CIV-17",
+    "number": "CIV 17",
+    "name": "SIMON ADINGRA",
+    "team": "CIV",
+    "type": "player"
+  },
+  {
+    "id": "CIV-18",
+    "number": "CIV 18",
+    "name": "YAN DIOMANDE",
+    "team": "CIV",
+    "type": "player"
+  },
+  {
+    "id": "CIV-19",
+    "number": "CIV 19",
+    "name": "EVANN GUESSAND",
+    "team": "CIV",
+    "type": "player"
+  },
+  {
+    "id": "CIV-20",
+    "number": "CIV 20",
+    "name": "OUMAR DIAKITÉ",
+    "team": "CIV",
+    "type": "player"
+  },
+  {
+    "id": "ECU-1",
+    "number": "ECU 1",
+    "name": "BADGE",
+    "team": "ECU",
+    "type": "badge"
+  },
+  {
+    "id": "ECU-2",
+    "number": "ECU 2",
+    "name": "HERNÁN GALÍNDEZ",
+    "team": "ECU",
+    "type": "player"
+  },
+  {
+    "id": "ECU-3",
+    "number": "ECU 3",
+    "name": "GONZALO VALLE",
+    "team": "ECU",
+    "type": "player"
+  },
+  {
+    "id": "ECU-4",
+    "number": "ECU 4",
+    "name": "PIERO HINCAPIÉ",
+    "team": "ECU",
+    "type": "player"
+  },
+  {
+    "id": "ECU-5",
+    "number": "ECU 5",
+    "name": "PERVIS ESTUPIÑÁN",
+    "team": "ECU",
+    "type": "player"
+  },
+  {
+    "id": "ECU-6",
+    "number": "ECU 6",
+    "name": "WILLIAN PACHO",
+    "team": "ECU",
+    "type": "player"
+  },
+  {
+    "id": "ECU-7",
+    "number": "ECU 7",
+    "name": "ÁNGELO PRECIADO",
+    "team": "ECU",
+    "type": "player"
+  },
+  {
+    "id": "ECU-8",
+    "number": "ECU 8",
+    "name": "JOEL ORDÓÑEZ",
+    "team": "ECU",
+    "type": "player"
+  },
+  {
+    "id": "ECU-9",
+    "number": "ECU 9",
+    "name": "MOISÉS CAICEDO",
+    "team": "ECU",
+    "type": "player"
+  },
+  {
+    "id": "ECU-10",
+    "number": "ECU 10",
+    "name": "ALAN FRANCO",
+    "team": "ECU",
+    "type": "player"
+  },
+  {
+    "id": "ECU-11",
+    "number": "ECU 11",
+    "name": "KENDRY PÁEZ",
+    "team": "ECU",
+    "type": "player"
+  },
+  {
+    "id": "ECU-12",
+    "number": "ECU 12",
+    "name": "PEDRO VITE",
+    "team": "ECU",
+    "type": "player"
+  },
+  {
+    "id": "ECU-13",
+    "number": "ECU 13",
+    "name": "SQUAD",
+    "team": "ECU",
+    "type": "team_photo"
+  },
+  {
+    "id": "ECU-14",
+    "number": "ECU 14",
+    "name": "JOHN YEBOAH",
+    "team": "ECU",
+    "type": "player"
+  },
+  {
+    "id": "ECU-15",
+    "number": "ECU 15",
+    "name": "LEONARDO CAMPANA",
+    "team": "ECU",
+    "type": "player"
+  },
+  {
+    "id": "ECU-16",
+    "number": "ECU 16",
+    "name": "GONZALO PLATA",
+    "team": "ECU",
+    "type": "player"
+  },
+  {
+    "id": "ECU-17",
+    "number": "ECU 17",
+    "name": "NILSON ANGULO",
+    "team": "ECU",
+    "type": "player"
+  },
+  {
+    "id": "ECU-18",
+    "number": "ECU 18",
+    "name": "ALAN MINDA",
+    "team": "ECU",
+    "type": "player"
+  },
+  {
+    "id": "ECU-19",
+    "number": "ECU 19",
+    "name": "KEVIN RODRÍGUEZ",
+    "team": "ECU",
+    "type": "player"
+  },
+  {
+    "id": "ECU-20",
+    "number": "ECU 20",
+    "name": "ENNER VALENCIA",
+    "team": "ECU",
+    "type": "player"
+  },
+  {
+    "id": "NED-1",
+    "number": "NED 1",
+    "name": "BADGE",
+    "team": "NED",
+    "type": "badge"
+  },
+  {
+    "id": "NED-2",
+    "number": "NED 2",
+    "name": "BART VERBRUGGEN",
+    "team": "NED",
+    "type": "player"
+  },
+  {
+    "id": "NED-3",
+    "number": "NED 3",
+    "name": "VIRGIL VAN DIJK",
+    "team": "NED",
+    "type": "player"
+  },
+  {
+    "id": "NED-4",
+    "number": "NED 4",
+    "name": "MICKY VAN DE VEN",
+    "team": "NED",
+    "type": "player"
+  },
+  {
+    "id": "NED-5",
+    "number": "NED 5",
+    "name": "JURIEN TIMBER",
+    "team": "NED",
+    "type": "player"
+  },
+  {
+    "id": "NED-6",
+    "number": "NED 6",
+    "name": "DENZEL DUMFRIES",
+    "team": "NED",
+    "type": "player"
+  },
+  {
+    "id": "NED-7",
+    "number": "NED 7",
+    "name": "NATHAN AKÉ",
+    "team": "NED",
+    "type": "player"
+  },
+  {
+    "id": "NED-8",
+    "number": "NED 8",
+    "name": "JEREMIE FRIMPONG",
+    "team": "NED",
+    "type": "player"
+  },
+  {
+    "id": "NED-9",
+    "number": "NED 9",
+    "name": "JAN PAUL VAN HECKE",
+    "team": "NED",
+    "type": "player"
+  },
+  {
+    "id": "NED-10",
+    "number": "NED 10",
+    "name": "TIJJANI REIJNDERS",
+    "team": "NED",
+    "type": "player"
+  },
+  {
+    "id": "NED-11",
+    "number": "NED 11",
+    "name": "RYAN GRAVENBERCH",
+    "team": "NED",
+    "type": "player"
+  },
+  {
+    "id": "NED-12",
+    "number": "NED 12",
+    "name": "TEUN KOOPMEINERS",
+    "team": "NED",
+    "type": "player"
+  },
+  {
+    "id": "NED-13",
+    "number": "NED 13",
+    "name": "SQUAD",
+    "team": "NED",
+    "type": "team_photo"
+  },
+  {
+    "id": "NED-14",
+    "number": "NED 14",
+    "name": "FRENKIE DE JONG",
+    "team": "NED",
+    "type": "player"
+  },
+  {
+    "id": "NED-15",
+    "number": "NED 15",
+    "name": "XAVI SIMONS",
+    "team": "NED",
+    "type": "player"
+  },
+  {
+    "id": "NED-16",
+    "number": "NED 16",
+    "name": "JUSTIN KLUIVERT",
+    "team": "NED",
+    "type": "player"
+  },
+  {
+    "id": "NED-17",
+    "number": "NED 17",
+    "name": "MEMPHIS DEPAY",
+    "team": "NED",
+    "type": "player"
+  },
+  {
+    "id": "NED-18",
+    "number": "NED 18",
+    "name": "DONYEL MALEN",
+    "team": "NED",
+    "type": "player"
+  },
+  {
+    "id": "NED-19",
+    "number": "NED 19",
+    "name": "WOUT WEGHORST",
+    "team": "NED",
+    "type": "player"
+  },
+  {
+    "id": "NED-20",
+    "number": "NED 20",
+    "name": "CODY GAKPO",
+    "team": "NED",
+    "type": "player"
+  },
+  {
+    "id": "JPN-1",
+    "number": "JPN 1",
+    "name": "BADGE",
+    "team": "JPN",
+    "type": "badge"
+  },
+  {
+    "id": "JPN-2",
+    "number": "JPN 2",
+    "name": "ZION SUZUKI",
+    "team": "JPN",
+    "type": "player"
+  },
+  {
+    "id": "JPN-3",
+    "number": "JPN 3",
+    "name": "HENRY HEROKI MOCHIZUKI",
+    "team": "JPN",
+    "type": "player"
+  },
+  {
+    "id": "JPN-4",
+    "number": "JPN 4",
+    "name": "AYUMU SEKO",
+    "team": "JPN",
+    "type": "player"
+  },
+  {
+    "id": "JPN-5",
+    "number": "JPN 5",
+    "name": "JUNNOSUKE SUZUKI",
+    "team": "JPN",
+    "type": "player"
+  },
+  {
+    "id": "JPN-6",
+    "number": "JPN 6",
+    "name": "SHOGO TANIGUCHI",
+    "team": "JPN",
+    "type": "player"
+  },
+  {
+    "id": "JPN-7",
+    "number": "JPN 7",
+    "name": "TSUYOSHI WATANABE",
+    "team": "JPN",
+    "type": "player"
+  },
+  {
+    "id": "JPN-8",
+    "number": "JPN 8",
+    "name": "KAISHU SANO",
+    "team": "JPN",
+    "type": "player"
+  },
+  {
+    "id": "JPN-9",
+    "number": "JPN 9",
+    "name": "YUKI SOMA",
+    "team": "JPN",
+    "type": "player"
+  },
+  {
+    "id": "JPN-10",
+    "number": "JPN 10",
+    "name": "AO TANAKA",
+    "team": "JPN",
+    "type": "player"
+  },
+  {
+    "id": "JPN-11",
+    "number": "JPN 11",
+    "name": "DAICHI KAMADA",
+    "team": "JPN",
+    "type": "player"
+  },
+  {
+    "id": "JPN-12",
+    "number": "JPN 12",
+    "name": "TAKEFUSA KUBO",
+    "team": "JPN",
+    "type": "player"
+  },
+  {
+    "id": "JPN-13",
+    "number": "JPN 13",
+    "name": "SQUAD",
+    "team": "JPN",
+    "type": "team_photo"
+  },
+  {
+    "id": "JPN-14",
+    "number": "JPN 14",
+    "name": "RITSU DOAN",
+    "team": "JPN",
+    "type": "player"
+  },
+  {
+    "id": "JPN-15",
+    "number": "JPN 15",
+    "name": "KEITO NAKAMURA",
+    "team": "JPN",
+    "type": "player"
+  },
+  {
+    "id": "JPN-16",
+    "number": "JPN 16",
+    "name": "TAKUMI MINAMINO",
+    "team": "JPN",
+    "type": "player"
+  },
+  {
+    "id": "JPN-17",
+    "number": "JPN 17",
+    "name": "SHUTO MACHINO",
+    "team": "JPN",
+    "type": "player"
+  },
+  {
+    "id": "JPN-18",
+    "number": "JPN 18",
+    "name": "JUNYA ITO",
+    "team": "JPN",
+    "type": "player"
+  },
+  {
+    "id": "JPN-19",
+    "number": "JPN 19",
+    "name": "KOKI OGAWA",
+    "team": "JPN",
+    "type": "player"
+  },
+  {
+    "id": "JPN-20",
+    "number": "JPN 20",
+    "name": "AYASE UEDA",
+    "team": "JPN",
+    "type": "player"
+  },
+  {
+    "id": "SWE-1",
+    "number": "SWE 1",
+    "name": "BADGE",
+    "team": "SWE",
+    "type": "badge"
+  },
+  {
+    "id": "SWE-2",
+    "number": "SWE 2",
+    "name": "VIKTOR JOHANSSON",
+    "team": "SWE",
+    "type": "player"
+  },
+  {
+    "id": "SWE-3",
+    "number": "SWE 3",
+    "name": "ISAK HIEN",
+    "team": "SWE",
+    "type": "player"
+  },
+  {
+    "id": "SWE-4",
+    "number": "SWE 4",
+    "name": "GABRIEL DUDMUNDSSON",
+    "team": "SWE",
+    "type": "player"
+  },
+  {
+    "id": "SWE-5",
+    "number": "SWE 5",
+    "name": "EMIL HOLM",
+    "team": "SWE",
+    "type": "player"
+  },
+  {
+    "id": "SWE-6",
+    "number": "SWE 6",
+    "name": "VOCTOR NILSSON LINDELÖF",
+    "team": "SWE",
+    "type": "player"
+  },
+  {
+    "id": "SWE-7",
+    "number": "SWE 7",
+    "name": "GUSTAF LAGERBIELKE",
+    "team": "SWE",
+    "type": "player"
+  },
+  {
+    "id": "SWE-8",
+    "number": "SWE 8",
+    "name": "LUCAS BERGVALL",
+    "team": "SWE",
+    "type": "player"
+  },
+  {
+    "id": "SWE-9",
+    "number": "SWE 9",
+    "name": "HUGO LARSSON",
+    "team": "SWE",
+    "type": "player"
+  },
+  {
+    "id": "SWE-10",
+    "number": "SWE 10",
+    "name": "JESPER KARLSTRÖM",
+    "team": "SWE",
+    "type": "player"
+  },
+  {
+    "id": "SWE-11",
+    "number": "SWE 11",
+    "name": "YASIN AYARI",
+    "team": "SWE",
+    "type": "player"
+  },
+  {
+    "id": "SWE-12",
+    "number": "SWE 12",
+    "name": "MATTIAS SVANBERG",
+    "team": "SWE",
+    "type": "player"
+  },
+  {
+    "id": "SWE-13",
+    "number": "SWE 13",
+    "name": "SQUAD",
+    "team": "SWE",
+    "type": "team_photo"
+  },
+  {
+    "id": "SWE-14",
+    "number": "SWE 14",
+    "name": "DANIEL SVENSSON",
+    "team": "SWE",
+    "type": "player"
+  },
+  {
+    "id": "SWE-15",
+    "number": "SWE 15",
+    "name": "KEN SEMA",
+    "team": "SWE",
+    "type": "player"
+  },
+  {
+    "id": "SWE-16",
+    "number": "SWE 16",
+    "name": "ROONY BARDGHJI",
+    "team": "SWE",
+    "type": "player"
+  },
+  {
+    "id": "SWE-17",
+    "number": "SWE 17",
+    "name": "DEJAN KULUSEVSKI",
+    "team": "SWE",
+    "type": "player"
+  },
+  {
+    "id": "SWE-18",
+    "number": "SWE 18",
+    "name": "ANTHONY ELANGA",
+    "team": "SWE",
+    "type": "player"
+  },
+  {
+    "id": "SWE-19",
+    "number": "SWE 19",
+    "name": "ALEXANDER ISAK",
+    "team": "SWE",
+    "type": "player"
+  },
+  {
+    "id": "SWE-20",
+    "number": "SWE 20",
+    "name": "VIKTOR GVÖKERES",
+    "team": "SWE",
+    "type": "player"
+  },
+  {
+    "id": "TUN-1",
+    "number": "TUN 1",
+    "name": "BADGE",
+    "team": "TUN",
+    "type": "badge"
+  },
+  {
+    "id": "TUN-2",
+    "number": "TUN 2",
+    "name": "BECHIR BEN SAÏD",
+    "team": "TUN",
+    "type": "player"
+  },
+  {
+    "id": "TUN-3",
+    "number": "TUN 3",
+    "name": "AYMEN DAHMEN",
+    "team": "TUN",
+    "type": "player"
+  },
+  {
+    "id": "TUN-4",
+    "number": "TUN 4",
+    "name": "VAN VALERY",
+    "team": "TUN",
+    "type": "player"
+  },
+  {
+    "id": "TUN-5",
+    "number": "TUN 5",
+    "name": "MONTASSAR TALBI",
+    "team": "TUN",
+    "type": "player"
+  },
+  {
+    "id": "TUN-6",
+    "number": "TUN 6",
+    "name": "YASSINE MERIAH",
+    "team": "TUN",
+    "type": "player"
+  },
+  {
+    "id": "TUN-7",
+    "number": "TUN 7",
+    "name": "ALI ABDI",
+    "team": "TUN",
+    "type": "player"
+  },
+  {
+    "id": "TUN-8",
+    "number": "TUN 8",
+    "name": "DYLAN BRONN",
+    "team": "TUN",
+    "type": "player"
+  },
+  {
+    "id": "TUN-9",
+    "number": "TUN 9",
+    "name": "ELLYES SKHIRI",
+    "team": "TUN",
+    "type": "player"
+  },
+  {
+    "id": "TUN-10",
+    "number": "TUN 10",
+    "name": "AÏSSA LAÏDOUNI",
+    "team": "TUN",
+    "type": "player"
+  },
+  {
+    "id": "TUN-11",
+    "number": "TUN 11",
+    "name": "FERJANI SASSI",
+    "team": "TUN",
+    "type": "player"
+  },
+  {
+    "id": "TUN-12",
+    "number": "TUN 12",
+    "name": "MOHAMED ALI BEN ROMDHANE",
+    "team": "TUN",
+    "type": "player"
+  },
+  {
+    "id": "TUN-13",
+    "number": "TUN 13",
+    "name": "SQUAD",
+    "team": "TUN",
+    "type": "team_photo"
+  },
+  {
+    "id": "TUN-14",
+    "number": "TUN 14",
+    "name": "HANNIBAL MEJBRI",
+    "team": "TUN",
+    "type": "player"
+  },
+  {
+    "id": "TUN-15",
+    "number": "TUN 15",
+    "name": "ELIAS ACHOURI",
+    "team": "TUN",
+    "type": "player"
+  },
+  {
+    "id": "TUN-16",
+    "number": "TUN 16",
+    "name": "ELIAS SAAD",
+    "team": "TUN",
+    "type": "player"
+  },
+  {
+    "id": "TUN-17",
+    "number": "TUN 17",
+    "name": "HAZEM MASTOURI",
+    "team": "TUN",
+    "type": "player"
+  },
+  {
+    "id": "TUN-18",
+    "number": "TUN 18",
+    "name": "ISMAËL GHARBI",
+    "team": "TUN",
+    "type": "player"
+  },
+  {
+    "id": "TUN-19",
+    "number": "TUN 19",
+    "name": "SAYFALLAH LTAIEF",
+    "team": "TUN",
+    "type": "player"
+  },
+  {
+    "id": "TUN-20",
+    "number": "TUN 20",
+    "name": "NAÏM SLITI",
+    "team": "TUN",
+    "type": "player"
+  },
+  {
+    "id": "CC-CC1",
+    "number": "C CC1",
+    "name": "LAMINE YAMAL",
+    "team": "Coca-Cola",
+    "type": "player"
+  },
+  {
+    "id": "CC-CC2",
+    "number": "C CC2",
+    "name": "JOSHUA KIMMICH",
+    "team": "Coca-Cola",
+    "type": "player"
+  },
+  {
+    "id": "CC-CC3",
+    "number": "C CC3",
+    "name": "EDUARDO CAMAVINGA",
+    "team": "Coca-Cola",
+    "type": "player"
+  },
+  {
+    "id": "CC-CC4",
+    "number": "C CC4",
+    "name": "JOŠKO GVARDIOL",
+    "team": "Coca-Cola",
+    "type": "player"
+  },
+  {
+    "id": "CC-CC5",
+    "number": "C CC5",
+    "name": "FEDERICO VALVERDE",
+    "team": "Coca-Cola",
+    "type": "player"
+  },
+  {
+    "id": "CC-CC6",
+    "number": "C CC6",
+    "name": "VIRGIL VAN DIJK",
+    "team": "Coca-Cola",
+    "type": "player"
+  },
+  {
+    "id": "CC-CC7",
+    "number": "C CC7",
+    "name": "ALPHONSO DAVIES",
+    "team": "Coca-Cola",
+    "type": "player"
+  },
+  {
+    "id": "CC-CC8",
+    "number": "C CC8",
+    "name": "RAÚL JIMÉNEZ",
+    "team": "Coca-Cola",
+    "type": "player"
+  },
+  {
+    "id": "CC-CC9",
+    "number": "C CC9",
+    "name": "WILLIAM SALIBA",
+    "team": "Coca-Cola",
+    "type": "player"
+  },
+  {
+    "id": "CC-CC10",
+    "number": "C CC10",
+    "name": "LAUTARO MARTÍNEZ",
+    "team": "Coca-Cola",
+    "type": "player"
+  },
+  {
+    "id": "CC-CC11",
+    "number": "C CC11",
+    "name": "HARRY KANE",
+    "team": "Coca-Cola",
+    "type": "player"
+  },
+  {
+    "id": "CC-CC12",
+    "number": "C CC12",
+    "name": "ANTONEE ROBINSON",
+    "team": "Coca-Cola",
+    "type": "player"
+  },
+  {
+    "id": "BEL-1",
+    "number": "BEL 1",
+    "name": "BADGE",
+    "team": "BEL",
+    "type": "badge"
+  },
+  {
+    "id": "BEL-2",
+    "number": "BEL 2",
+    "name": "THIBAUT COURTOIS",
+    "team": "BEL",
+    "type": "player"
+  },
+  {
+    "id": "BEL-3",
+    "number": "BEL 3",
+    "name": "ARTHUR THEATE",
+    "team": "BEL",
+    "type": "player"
+  },
+  {
+    "id": "BEL-4",
+    "number": "BEL 4",
+    "name": "TIMOTHY CASTAGNE",
+    "team": "BEL",
+    "type": "player"
+  },
+  {
+    "id": "BEL-5",
+    "number": "BEL 5",
+    "name": "ZENO DEBAST",
+    "team": "BEL",
+    "type": "player"
+  },
+  {
+    "id": "BEL-6",
+    "number": "BEL 6",
+    "name": "BRADON MECHELE",
+    "team": "BEL",
+    "type": "player"
+  },
+  {
+    "id": "BEL-7",
+    "number": "BEL 7",
+    "name": "MAXIM DE CUYPER",
+    "team": "BEL",
+    "type": "player"
+  },
+  {
+    "id": "BEL-8",
+    "number": "BEL 8",
+    "name": "THOMAS MEUNIER",
+    "team": "BEL",
+    "type": "player"
+  },
+  {
+    "id": "BEL-9",
+    "number": "BEL 9",
+    "name": "YOURI TIELEMAN",
+    "team": "BEL",
+    "type": "player"
+  },
+  {
+    "id": "BEL-10",
+    "number": "BEL 10",
+    "name": "AMADOU ONANA",
+    "team": "BEL",
+    "type": "player"
+  },
+  {
+    "id": "BEL-11",
+    "number": "BEL 11",
+    "name": "NICOLAS RASKIN",
+    "team": "BEL",
+    "type": "player"
+  },
+  {
+    "id": "BEL-12",
+    "number": "BEL 12",
+    "name": "ALEXIS SAELEMAEKERS",
+    "team": "BEL",
+    "type": "player"
+  },
+  {
+    "id": "BEL-13",
+    "number": "BEL 13",
+    "name": "SQUAD",
+    "team": "BEL",
+    "type": "team_photo"
+  },
+  {
+    "id": "BEL-14",
+    "number": "BEL 14",
+    "name": "HANS VANAKEN",
+    "team": "BEL",
+    "type": "player"
+  },
+  {
+    "id": "BEL-15",
+    "number": "BEL 15",
+    "name": "KEVIN DE BRUYNE",
+    "team": "BEL",
+    "type": "player"
+  },
+  {
+    "id": "BEL-16",
+    "number": "BEL 16",
+    "name": "JËRËRMY DOKU",
+    "team": "BEL",
+    "type": "player"
+  },
+  {
+    "id": "BEL-17",
+    "number": "BEL 17",
+    "name": "CHARLES DE KETELAERE",
+    "team": "BEL",
+    "type": "player"
+  },
+  {
+    "id": "BEL-18",
+    "number": "BEL 18",
+    "name": "LEANDRO TROSSARD",
+    "team": "BEL",
+    "type": "player"
+  },
+  {
+    "id": "BEL-19",
+    "number": "BEL 19",
+    "name": "LOÏS OPENDA",
+    "team": "BEL",
+    "type": "player"
+  },
+  {
+    "id": "BEL-20",
+    "number": "BEL 20",
+    "name": "ROMELU LUKAKU",
+    "team": "BEL",
+    "type": "player"
+  },
+  {
+    "id": "EGY-1",
+    "number": "EGY 1",
+    "name": "BADGE",
+    "team": "EGY",
+    "type": "badge"
+  },
+  {
+    "id": "EGY-2",
+    "number": "EGY 2",
+    "name": "MOHAMED ELSHENAWY",
+    "team": "EGY",
+    "type": "player"
+  },
+  {
+    "id": "EGY-3",
+    "number": "EGY 3",
+    "name": "MOHAMED HANY",
+    "team": "EGY",
+    "type": "player"
+  },
+  {
+    "id": "EGY-4",
+    "number": "EGY 4",
+    "name": "MOHAMED HAMDY",
+    "team": "EGY",
+    "type": "player"
+  },
+  {
+    "id": "EGY-5",
+    "number": "EGY 5",
+    "name": "YASSER EBRAHIM",
+    "team": "EGY",
+    "type": "player"
+  },
+  {
+    "id": "EGY-6",
+    "number": "EGY 6",
+    "name": "KHALED SOBHI",
+    "team": "EGY",
+    "type": "player"
+  },
+  {
+    "id": "EGY-7",
+    "number": "EGY 7",
+    "name": "RAMY RABIA",
+    "team": "EGY",
+    "type": "player"
+  },
+  {
+    "id": "EGY-8",
+    "number": "EGY 8",
+    "name": "HOSSAM ABDELMAGUID",
+    "team": "EGY",
+    "type": "player"
+  },
+  {
+    "id": "EGY-9",
+    "number": "EGY 9",
+    "name": "AHMES FATOUH",
+    "team": "EGY",
+    "type": "player"
+  },
+  {
+    "id": "EGY-10",
+    "number": "EGY 10",
+    "name": "MARWAN ATTIA",
+    "team": "EGY",
+    "type": "player"
+  },
+  {
+    "id": "EGY-11",
+    "number": "EGY 11",
+    "name": "ZIZO",
+    "team": "EGY",
+    "type": "player"
+  },
+  {
+    "id": "EGY-12",
+    "number": "EGY 12",
+    "name": "HAMDY FATHY",
+    "team": "EGY",
+    "type": "player"
+  },
+  {
+    "id": "EGY-13",
+    "number": "EGY 13",
+    "name": "SQUAD",
+    "team": "EGY",
+    "type": "team_photo"
+  },
+  {
+    "id": "EGY-14",
+    "number": "EGY 14",
+    "name": "MOHANAD LASHEEN",
+    "team": "EGY",
+    "type": "player"
+  },
+  {
+    "id": "EGY-15",
+    "number": "EGY 15",
+    "name": "EMAM ASHOUR",
+    "team": "EGY",
+    "type": "player"
+  },
+  {
+    "id": "EGY-16",
+    "number": "EGY 16",
+    "name": "OSAMA FAISAL",
+    "team": "EGY",
+    "type": "player"
+  },
+  {
+    "id": "EGY-17",
+    "number": "EGY 17",
+    "name": "MOHAMED SALAH",
+    "team": "EGY",
+    "type": "player"
+  },
+  {
+    "id": "EGY-18",
+    "number": "EGY 18",
+    "name": "MOSTAFA MOHAMED",
+    "team": "EGY",
+    "type": "player"
+  },
+  {
+    "id": "EGY-19",
+    "number": "EGY 19",
+    "name": "TREZEGUET",
+    "team": "EGY",
+    "type": "player"
+  },
+  {
+    "id": "EGY-20",
+    "number": "EGY 20",
+    "name": "OMAR MARSMOUSH",
+    "team": "EGY",
+    "type": "player"
+  },
+  {
+    "id": "IRN-1",
+    "number": "IRN 1",
+    "name": "BADGE",
+    "team": "IRN",
+    "type": "badge"
+  },
+  {
+    "id": "IRN-2",
+    "number": "IRN 2",
+    "name": "ALIREZA BEIRANVAND",
+    "team": "IRN",
+    "type": "player"
+  },
+  {
+    "id": "IRN-3",
+    "number": "IRN 3",
+    "name": "MORTEZA POURALIGANJI",
+    "team": "IRN",
+    "type": "player"
+  },
+  {
+    "id": "IRN-4",
+    "number": "IRN 4",
+    "name": "EHSAN HAJSAFI",
+    "team": "IRN",
+    "type": "player"
+  },
+  {
+    "id": "IRN-5",
+    "number": "IRN 5",
+    "name": "MILAD MOHAMMADI",
+    "team": "IRN",
+    "type": "player"
+  },
+  {
+    "id": "IRN-6",
+    "number": "IRN 6",
+    "name": "SHOJAE KHALILZADEH",
+    "team": "IRN",
+    "type": "player"
+  },
+  {
+    "id": "IRN-7",
+    "number": "IRN 7",
+    "name": "RAMIN REZAEIAN",
+    "team": "IRN",
+    "type": "player"
+  },
+  {
+    "id": "IRN-8",
+    "number": "IRN 8",
+    "name": "HOSSEIN KANAANI",
+    "team": "IRN",
+    "type": "player"
+  },
+  {
+    "id": "IRN-9",
+    "number": "IRN 9",
+    "name": "SADEGH MOHARRAMI",
+    "team": "IRN",
+    "type": "player"
+  },
+  {
+    "id": "IRN-10",
+    "number": "IRN 10",
+    "name": "SALEH HARDANI",
+    "team": "IRN",
+    "type": "player"
+  },
+  {
+    "id": "IRN-11",
+    "number": "IRN 11",
+    "name": "SAEED EZATOLAHI",
+    "team": "IRN",
+    "type": "player"
+  },
+  {
+    "id": "IRN-12",
+    "number": "IRN 12",
+    "name": "SAMAN GHODDOS",
+    "team": "IRN",
+    "type": "player"
+  },
+  {
+    "id": "IRN-13",
+    "number": "IRN 13",
+    "name": "SQUAD",
+    "team": "IRN",
+    "type": "team_photo"
+  },
+  {
+    "id": "IRN-14",
+    "number": "IRN 14",
+    "name": "OMID NOORAFKAN",
+    "team": "IRN",
+    "type": "player"
+  },
+  {
+    "id": "IRN-15",
+    "number": "IRN 15",
+    "name": "ROOZBEH CHESHMI",
+    "team": "IRN",
+    "type": "player"
+  },
+  {
+    "id": "IRN-16",
+    "number": "IRN 16",
+    "name": "MOHAMMAD MOHEBI",
+    "team": "IRN",
+    "type": "player"
+  },
+  {
+    "id": "IRN-17",
+    "number": "IRN 17",
+    "name": "SARDAR AZMOUN",
+    "team": "IRN",
+    "type": "player"
+  },
+  {
+    "id": "IRN-18",
+    "number": "IRN 18",
+    "name": "MEHDI TAREMI",
+    "team": "IRN",
+    "type": "player"
+  },
+  {
+    "id": "IRN-19",
+    "number": "IRN 19",
+    "name": "ALIREZA JAHANBAKHSH",
+    "team": "IRN",
+    "type": "player"
+  },
+  {
+    "id": "IRN-20",
+    "number": "IRN 20",
+    "name": "ALI GHOLIZADEH",
+    "team": "IRN",
+    "type": "player"
+  },
+  {
+    "id": "NZL-1",
+    "number": "NZL 1",
+    "name": "BADGE",
+    "team": "NZL",
+    "type": "badge"
+  },
+  {
+    "id": "NZL-2",
+    "number": "NZL 2",
+    "name": "MAX CROCOMBE",
+    "team": "NZL",
+    "type": "player"
+  },
+  {
+    "id": "NZL-3",
+    "number": "NZL 3",
+    "name": "ALEX PAULSEN",
+    "team": "NZL",
+    "type": "player"
+  },
+  {
+    "id": "NZL-4",
+    "number": "NZL 4",
+    "name": "MICHAEL BOXALL",
+    "team": "NZL",
+    "type": "player"
+  },
+  {
+    "id": "NZL-5",
+    "number": "NZL 5",
+    "name": "LIBERATO CACACE",
+    "team": "NZL",
+    "type": "player"
+  },
+  {
+    "id": "NZL-6",
+    "number": "NZL 6",
+    "name": "TIM PAYNE",
+    "team": "NZL",
+    "type": "player"
+  },
+  {
+    "id": "NZL-7",
+    "number": "NZL 7",
+    "name": "TYLER BINDON",
+    "team": "NZL",
+    "type": "player"
+  },
+  {
+    "id": "NZL-8",
+    "number": "NZL 8",
+    "name": "FRANCIS DE VRIES",
+    "team": "NZL",
+    "type": "player"
+  },
+  {
+    "id": "NZL-9",
+    "number": "NZL 9",
+    "name": "FINN SURMAN",
+    "team": "NZL",
+    "type": "player"
+  },
+  {
+    "id": "NZL-10",
+    "number": "NZL 10",
+    "name": "JOE BELL",
+    "team": "NZL",
+    "type": "player"
+  },
+  {
+    "id": "NZL-11",
+    "number": "NZL 11",
+    "name": "SARPREET SINGH",
+    "team": "NZL",
+    "type": "player"
+  },
+  {
+    "id": "NZL-12",
+    "number": "NZL 12",
+    "name": "RYAN THOMAS",
+    "team": "NZL",
+    "type": "player"
+  },
+  {
+    "id": "NZL-13",
+    "number": "NZL 13",
+    "name": "SQUAD",
+    "team": "NZL",
+    "type": "team_photo"
+  },
+  {
+    "id": "NZL-14",
+    "number": "NZL 14",
+    "name": "MATTHEW GARBETT",
+    "team": "NZL",
+    "type": "player"
+  },
+  {
+    "id": "NZL-15",
+    "number": "NZL 15",
+    "name": "MARKO STAMENIĆ",
+    "team": "NZL",
+    "type": "player"
+  },
+  {
+    "id": "NZL-16",
+    "number": "NZL 16",
+    "name": "BEN OLD",
+    "team": "NZL",
+    "type": "player"
+  },
+  {
+    "id": "NZL-17",
+    "number": "NZL 17",
+    "name": "CHRIS WOOD",
+    "team": "NZL",
+    "type": "player"
+  },
+  {
+    "id": "NZL-18",
+    "number": "NZL 18",
+    "name": "ELIJAH JUST",
+    "team": "NZL",
+    "type": "player"
+  },
+  {
+    "id": "NZL-19",
+    "number": "NZL 19",
+    "name": "CALLUM MCCOWATT",
+    "team": "NZL",
+    "type": "player"
+  },
+  {
+    "id": "NZL-20",
+    "number": "NZL 20",
+    "name": "KOSTA BARBAROUSES",
+    "team": "NZL",
+    "type": "player"
+  },
+  {
+    "id": "ESP-1",
+    "number": "ESP 1",
+    "name": "BADGE",
+    "team": "ESP",
+    "type": "badge"
+  },
+  {
+    "id": "ESP-2",
+    "number": "ESP 2",
+    "name": "UNAI SIMÓN",
+    "team": "ESP",
+    "type": "player"
+  },
+  {
+    "id": "ESP-3",
+    "number": "ESP 3",
+    "name": "ROBIN LE NORMAND",
+    "team": "ESP",
+    "type": "player"
+  },
+  {
+    "id": "ESP-4",
+    "number": "ESP 4",
+    "name": "AYMERIC LAPORTE",
+    "team": "ESP",
+    "type": "player"
+  },
+  {
+    "id": "ESP-5",
+    "number": "ESP 5",
+    "name": "DEAN HUIJSEN",
+    "team": "ESP",
+    "type": "player"
+  },
+  {
+    "id": "ESP-6",
+    "number": "ESP 6",
+    "name": "PEDRO PORRO",
+    "team": "ESP",
+    "type": "player"
+  },
+  {
+    "id": "ESP-7",
+    "number": "ESP 7",
+    "name": "DANI CARVAJAL",
+    "team": "ESP",
+    "type": "player"
+  },
+  {
+    "id": "ESP-8",
+    "number": "ESP 8",
+    "name": "MARC CUCURELLA",
+    "team": "ESP",
+    "type": "player"
+  },
+  {
+    "id": "ESP-9",
+    "number": "ESP 9",
+    "name": "MARTÍN ZUBIMENDI",
+    "team": "ESP",
+    "type": "player"
+  },
+  {
+    "id": "ESP-10",
+    "number": "ESP 10",
+    "name": "RODRI",
+    "team": "ESP",
+    "type": "player"
+  },
+  {
+    "id": "ESP-11",
+    "number": "ESP 11",
+    "name": "PEDRI",
+    "team": "ESP",
+    "type": "player"
+  },
+  {
+    "id": "ESP-12",
+    "number": "ESP 12",
+    "name": "FABIÁN RUIZ",
+    "team": "ESP",
+    "type": "player"
+  },
+  {
+    "id": "ESP-13",
+    "number": "ESP 13",
+    "name": "SQUAD",
+    "team": "ESP",
+    "type": "team_photo"
+  },
+  {
+    "id": "ESP-14",
+    "number": "ESP 14",
+    "name": "MIKEL MERINO",
+    "team": "ESP",
+    "type": "player"
+  },
+  {
+    "id": "ESP-15",
+    "number": "ESP 15",
+    "name": "LAMINE YAMAL",
+    "team": "ESP",
+    "type": "player"
+  },
+  {
+    "id": "ESP-16",
+    "number": "ESP 16",
+    "name": "DANI OLMO",
+    "team": "ESP",
+    "type": "player"
+  },
+  {
+    "id": "ESP-17",
+    "number": "ESP 17",
+    "name": "NICO WILLIAMS",
+    "team": "ESP",
+    "type": "player"
+  },
+  {
+    "id": "ESP-18",
+    "number": "ESP 18",
+    "name": "FERRAN TORRES",
+    "team": "ESP",
+    "type": "player"
+  },
+  {
+    "id": "ESP-19",
+    "number": "ESP 19",
+    "name": "ÁLVARO MORATA",
+    "team": "ESP",
+    "type": "player"
+  },
+  {
+    "id": "ESP-20",
+    "number": "ESP 20",
+    "name": "MIKEL OYARZABAL",
+    "team": "ESP",
+    "type": "player"
+  },
+  {
+    "id": "CPV-1",
+    "number": "CPV 1",
+    "name": "BADGE",
+    "team": "CPV",
+    "type": "badge"
+  },
+  {
+    "id": "CPV-2",
+    "number": "CPV 2",
+    "name": "VOZINHA",
+    "team": "CPV",
+    "type": "player"
+  },
+  {
+    "id": "CPV-3",
+    "number": "CPV 3",
+    "name": "LOGAN COSTA",
+    "team": "CPV",
+    "type": "player"
+  },
+  {
+    "id": "CPV-4",
+    "number": "CPV 4",
+    "name": "PICO",
+    "team": "CPV",
+    "type": "player"
+  },
+  {
+    "id": "CPV-5",
+    "number": "CPV 5",
+    "name": "DINEV",
+    "team": "CPV",
+    "type": "player"
+  },
+  {
+    "id": "CPV-6",
+    "number": "CPV 6",
+    "name": "STEVEN MOREIRA",
+    "team": "CPV",
+    "type": "player"
+  },
+  {
+    "id": "CPV-7",
+    "number": "CPV 7",
+    "name": "WAGNER PINA",
+    "team": "CPV",
+    "type": "player"
+  },
+  {
+    "id": "CPV-8",
+    "number": "CPV 8",
+    "name": "JOÃO PAULO",
+    "team": "CPV",
+    "type": "player"
+  },
+  {
+    "id": "CPV-9",
+    "number": "CPV 9",
+    "name": "YANNICK SEMEDO",
+    "team": "CPV",
+    "type": "player"
+  },
+  {
+    "id": "CPV-10",
+    "number": "CPV 10",
+    "name": "KEVIN PINA",
+    "team": "CPV",
+    "type": "player"
+  },
+  {
+    "id": "CPV-11",
+    "number": "CPV 11",
+    "name": "PATRICK ANDRADE",
+    "team": "CPV",
+    "type": "player"
+  },
+  {
+    "id": "CPV-12",
+    "number": "CPV 12",
+    "name": "JAMIRO MONTEIRO",
+    "team": "CPV",
+    "type": "player"
+  },
+  {
+    "id": "CPV-13",
+    "number": "CPV 13",
+    "name": "SQUAD",
+    "team": "CPV",
+    "type": "team_photo"
+  },
+  {
+    "id": "CPV-14",
+    "number": "CPV 14",
+    "name": "DEROY DUARTE",
+    "team": "CPV",
+    "type": "player"
+  },
+  {
+    "id": "CPV-15",
+    "number": "CPV 15",
+    "name": "GARRY RODRIGUES",
+    "team": "CPV",
+    "type": "player"
+  },
+  {
+    "id": "CPV-16",
+    "number": "CPV 16",
+    "name": "JOVANE CABRAL",
+    "team": "CPV",
+    "type": "player"
+  },
+  {
+    "id": "CPV-17",
+    "number": "CPV 17",
+    "name": "RYAN MENDES",
+    "team": "CPV",
+    "type": "player"
+  },
+  {
+    "id": "CPV-18",
+    "number": "CPV 18",
+    "name": "DAILON LIVRAMENTO",
+    "team": "CPV",
+    "type": "player"
+  },
+  {
+    "id": "CPV-19",
+    "number": "CPV 19",
+    "name": "WILLY SEMEDO",
+    "team": "CPV",
+    "type": "player"
+  },
+  {
+    "id": "CPV-20",
+    "number": "CPV 20",
+    "name": "BEB",
+    "team": "CPV",
+    "type": "player"
+  },
+  {
+    "id": "KSA-1",
+    "number": "KSA 1",
+    "name": "BADGE",
+    "team": "KSA",
+    "type": "badge"
+  },
+  {
+    "id": "KSA-2",
+    "number": "KSA 2",
+    "name": "NAWAF ALAQIDI",
+    "team": "KSA",
+    "type": "player"
+  },
+  {
+    "id": "KSA-3",
+    "number": "KSA 3",
+    "name": "ANDULRAHMAN ALSANBI",
+    "team": "KSA",
+    "type": "player"
+  },
+  {
+    "id": "KSA-4",
+    "number": "KSA 4",
+    "name": "SAUD ABDULHAMID",
+    "team": "KSA",
+    "type": "player"
+  },
+  {
+    "id": "KSA-5",
+    "number": "KSA 5",
+    "name": "NAWAF BOUWASHL",
+    "team": "KSA",
+    "type": "player"
+  },
+  {
+    "id": "KSA-6",
+    "number": "KSA 6",
+    "name": "JEHAD THIKRI",
+    "team": "KSA",
+    "type": "player"
+  },
+  {
+    "id": "KSA-7",
+    "number": "KSA 7",
+    "name": "MOTEB ALHARBI",
+    "team": "KSA",
+    "type": "player"
+  },
+  {
+    "id": "KSA-8",
+    "number": "KSA 8",
+    "name": "HASSAN ALTAMBAKTI",
+    "team": "KSA",
+    "type": "player"
+  },
+  {
+    "id": "KSA-9",
+    "number": "KSA 9",
+    "name": "MUSAB ALJUWAYR",
+    "team": "KSA",
+    "type": "player"
+  },
+  {
+    "id": "KSA-10",
+    "number": "KSA 10",
+    "name": "ZIYAD ALJOHANI",
+    "team": "KSA",
+    "type": "player"
+  },
+  {
+    "id": "KSA-11",
+    "number": "KSA 11",
+    "name": "ABDULLAH ALKHAIBARI",
+    "team": "KSA",
+    "type": "player"
+  },
+  {
+    "id": "KSA-12",
+    "number": "KSA 12",
+    "name": "NASSER ALDAWSARI",
+    "team": "KSA",
+    "type": "player"
+  },
+  {
+    "id": "KSA-13",
+    "number": "KSA 13",
+    "name": "SQUAD",
+    "team": "KSA",
+    "type": "team_photo"
+  },
+  {
+    "id": "KSA-14",
+    "number": "KSA 14",
+    "name": "SALEH ABU ALSHAMAT",
+    "team": "KSA",
+    "type": "player"
+  },
+  {
+    "id": "KSA-15",
+    "number": "KSA 15",
+    "name": "MARWAN ALSAHAFI",
+    "team": "KSA",
+    "type": "player"
+  },
+  {
+    "id": "KSA-16",
+    "number": "KSA 16",
+    "name": "SALEM ALDAWSARI",
+    "team": "KSA",
+    "type": "player"
+  },
+  {
+    "id": "KSA-17",
+    "number": "KSA 17",
+    "name": "ABDULRAHMAN ALOBUD",
+    "team": "KSA",
+    "type": "player"
+  },
+  {
+    "id": "KSA-18",
+    "number": "KSA 18",
+    "name": "FERAS ALBRIKAN",
+    "team": "KSA",
+    "type": "player"
+  },
+  {
+    "id": "KSA-19",
+    "number": "KSA 19",
+    "name": "SALEH ALSHEHRI",
+    "team": "KSA",
+    "type": "player"
+  },
+  {
+    "id": "KSA-20",
+    "number": "KSA 20",
+    "name": "ABDULLAH ALHAMDAN",
+    "team": "KSA",
+    "type": "player"
+  },
+  {
+    "id": "URU-1",
+    "number": "URU 1",
+    "name": "BADGE",
+    "team": "URU",
+    "type": "badge"
+  },
+  {
+    "id": "URU-2",
+    "number": "URU 2",
+    "name": "SERGIO ROCHET",
+    "team": "URU",
+    "type": "player"
+  },
+  {
+    "id": "URU-3",
+    "number": "URU 3",
+    "name": "SANTIAGO MELE",
+    "team": "URU",
+    "type": "player"
+  },
+  {
+    "id": "URU-4",
+    "number": "URU 4",
+    "name": "RONALD ARAÚJO",
+    "team": "URU",
+    "type": "player"
+  },
+  {
+    "id": "URU-5",
+    "number": "URU 5",
+    "name": "JOSÉ MARÍA GIMÉNEZ",
+    "team": "URU",
+    "type": "player"
+  },
+  {
+    "id": "URU-6",
+    "number": "URU 6",
+    "name": "SEBASTIÁN CÁCERES",
+    "team": "URU",
+    "type": "player"
+  },
+  {
+    "id": "URU-7",
+    "number": "URU 7",
+    "name": "MATHIAS OLIVERA",
+    "team": "URU",
+    "type": "player"
+  },
+  {
+    "id": "URU-8",
+    "number": "URU 8",
+    "name": "GUILLERMO VARELA",
+    "team": "URU",
+    "type": "player"
+  },
+  {
+    "id": "URU-9",
+    "number": "URU 9",
+    "name": "NHITAM NÁNDEZ",
+    "team": "URU",
+    "type": "player"
+  },
+  {
+    "id": "URU-10",
+    "number": "URU 10",
+    "name": "FEDERICO VALVERDE",
+    "team": "URU",
+    "type": "player"
+  },
+  {
+    "id": "URU-11",
+    "number": "URU 11",
+    "name": "GIORGIAN DE ARRASCAETA",
+    "team": "URU",
+    "type": "player"
+  },
+  {
+    "id": "URU-12",
+    "number": "URU 12",
+    "name": "RODRIGO BENTANCUR",
+    "team": "URU",
+    "type": "player"
+  },
+  {
+    "id": "URU-13",
+    "number": "URU 13",
+    "name": "SQUAD",
+    "team": "URU",
+    "type": "team_photo"
+  },
+  {
+    "id": "URU-14",
+    "number": "URU 14",
+    "name": "MANUEL UGARTE",
+    "team": "URU",
+    "type": "player"
+  },
+  {
+    "id": "URU-15",
+    "number": "URU 15",
+    "name": "NICOLÁS DE LA CRUZ",
+    "team": "URU",
+    "type": "player"
+  },
+  {
+    "id": "URU-16",
+    "number": "URU 16",
+    "name": "MAXI ARAÚJO",
+    "team": "URU",
+    "type": "player"
+  },
+  {
+    "id": "URU-17",
+    "number": "URU 17",
+    "name": "DARWIN NÚÑEZ",
+    "team": "URU",
+    "type": "player"
+  },
+  {
+    "id": "URU-18",
+    "number": "URU 18",
+    "name": "FEDERICO VIÑAS",
+    "team": "URU",
+    "type": "player"
+  },
+  {
+    "id": "URU-19",
+    "number": "URU 19",
+    "name": "RODRIGO AGUIRRE",
+    "team": "URU",
+    "type": "player"
+  },
+  {
+    "id": "URU-20",
+    "number": "URU 20",
+    "name": "FACUNDO PELLISTRI",
+    "team": "URU",
+    "type": "player"
+  },
+  {
+    "id": "FRA-1",
+    "number": "FRA 1",
+    "name": "BADGE",
+    "team": "FRA",
+    "type": "badge"
+  },
+  {
+    "id": "FRA-2",
+    "number": "FRA 2",
+    "name": "MIKE MAIGNAN",
+    "team": "FRA",
+    "type": "player"
+  },
+  {
+    "id": "FRA-3",
+    "number": "FRA 3",
+    "name": "THEO HERNÁNDEZ",
+    "team": "FRA",
+    "type": "player"
+  },
+  {
+    "id": "FRA-4",
+    "number": "FRA 4",
+    "name": "WILLIAM SALIBA",
+    "team": "FRA",
+    "type": "player"
+  },
+  {
+    "id": "FRA-5",
+    "number": "FRA 5",
+    "name": "JULES KOUNDÉ",
+    "team": "FRA",
+    "type": "player"
+  },
+  {
+    "id": "FRA-6",
+    "number": "FRA 6",
+    "name": "IBRAHIMA KONATÉ",
+    "team": "FRA",
+    "type": "player"
+  },
+  {
+    "id": "FRA-7",
+    "number": "FRA 7",
+    "name": "DAYOT UPAMECANO",
+    "team": "FRA",
+    "type": "player"
+  },
+  {
+    "id": "FRA-8",
+    "number": "FRA 8",
+    "name": "LUCAS DIGNE",
+    "team": "FRA",
+    "type": "player"
+  },
+  {
+    "id": "FRA-9",
+    "number": "FRA 9",
+    "name": "AURÉLIEN TCHOUAMÉNI",
+    "team": "FRA",
+    "type": "player"
+  },
+  {
+    "id": "FRA-10",
+    "number": "FRA 10",
+    "name": "EDUARDO CAMAVINGA",
+    "team": "FRA",
+    "type": "player"
+  },
+  {
+    "id": "FRA-11",
+    "number": "FRA 11",
+    "name": "MANU KONÉ",
+    "team": "FRA",
+    "type": "player"
+  },
+  {
+    "id": "FRA-12",
+    "number": "FRA 12",
+    "name": "ADRIEN RABIOT",
+    "team": "FRA",
+    "type": "player"
+  },
+  {
+    "id": "FRA-13",
+    "number": "FRA 13",
+    "name": "SQUAD",
+    "team": "FRA",
+    "type": "team_photo"
+  },
+  {
+    "id": "FRA-14",
+    "number": "FRA 14",
+    "name": "MICHAEL OLISE",
+    "team": "FRA",
+    "type": "player"
+  },
+  {
+    "id": "FRA-15",
+    "number": "FRA 15",
+    "name": "OUSMANE DEMBÉLÉ",
+    "team": "FRA",
+    "type": "player"
+  },
+  {
+    "id": "FRA-16",
+    "number": "FRA 16",
+    "name": "BRADLEY BARCOLA",
+    "team": "FRA",
+    "type": "player"
+  },
+  {
+    "id": "FRA-17",
+    "number": "FRA 17",
+    "name": "DÉSIRÉ DOUÉ",
+    "team": "FRA",
+    "type": "player"
+  },
+  {
+    "id": "FRA-18",
+    "number": "FRA 18",
+    "name": "KINGSLEY COMAN",
+    "team": "FRA",
+    "type": "player"
+  },
+  {
+    "id": "FRA-19",
+    "number": "FRA 19",
+    "name": "HUGO EKITIKÉ",
+    "team": "FRA",
+    "type": "player"
+  },
+  {
+    "id": "FRA-20",
+    "number": "FRA 20",
+    "name": "KYLIAN MBAPPÉ",
+    "team": "FRA",
+    "type": "player"
+  },
+  {
+    "id": "SEN-1",
+    "number": "SEN 1",
+    "name": "BADGE",
+    "team": "SEN",
+    "type": "badge"
+  },
+  {
+    "id": "SEN-2",
+    "number": "SEN 2",
+    "name": "EDUARDO MENDY",
+    "team": "SEN",
+    "type": "player"
+  },
+  {
+    "id": "SEN-3",
+    "number": "SEN 3",
+    "name": "YEHVANN DIOUF",
+    "team": "SEN",
+    "type": "player"
+  },
+  {
+    "id": "SEN-4",
+    "number": "SEN 4",
+    "name": "MOUSSA NIAKHATÉ",
+    "team": "SEN",
+    "type": "player"
+  },
+  {
+    "id": "SEN-5",
+    "number": "SEN 5",
+    "name": "ABDOULAYE SEC",
+    "team": "SEN",
+    "type": "player"
+  },
+  {
+    "id": "SEN-6",
+    "number": "SEN 6",
+    "name": "ISMAIL JAKOBS",
+    "team": "SEN",
+    "type": "player"
+  },
+  {
+    "id": "SEN-7",
+    "number": "SEN 7",
+    "name": "EL HADJI MALICK DIOUF",
+    "team": "SEN",
+    "type": "player"
+  },
+  {
+    "id": "SEN-8",
+    "number": "SEN 8",
+    "name": "KALIDOU KOULIBALY",
+    "team": "SEN",
+    "type": "player"
+  },
+  {
+    "id": "SEN-9",
+    "number": "SEN 9",
+    "name": "IDRISSA GANA GUEYE",
+    "team": "SEN",
+    "type": "player"
+  },
+  {
+    "id": "SEN-10",
+    "number": "SEN 10",
+    "name": "PAPE MARAR SARR",
+    "team": "SEN",
+    "type": "player"
+  },
+  {
+    "id": "SEN-11",
+    "number": "SEN 11",
+    "name": "PAPE GUEYE",
+    "team": "SEN",
+    "type": "player"
+  },
+  {
+    "id": "SEN-12",
+    "number": "SEN 12",
+    "name": "HABIB DIARRA",
+    "team": "SEN",
+    "type": "player"
+  },
+  {
+    "id": "SEN-13",
+    "number": "SEN 13",
+    "name": "SQUAD",
+    "team": "SEN",
+    "type": "team_photo"
+  },
+  {
+    "id": "SEN-14",
+    "number": "SEN 14",
+    "name": "LAMINE CAMARA",
+    "team": "SEN",
+    "type": "player"
+  },
+  {
+    "id": "SEN-15",
+    "number": "SEN 15",
+    "name": "SADIO MANÉ",
+    "team": "SEN",
+    "type": "player"
+  },
+  {
+    "id": "SEN-16",
+    "number": "SEN 16",
+    "name": "ISMAÏLA SARR",
+    "team": "SEN",
+    "type": "player"
+  },
+  {
+    "id": "SEN-17",
+    "number": "SEN 17",
+    "name": "BOULAYE DIA",
+    "team": "SEN",
+    "type": "player"
+  },
+  {
+    "id": "SEN-18",
+    "number": "SEN 18",
+    "name": "ILIMAN NDIAYE",
+    "team": "SEN",
+    "type": "player"
+  },
+  {
+    "id": "SEN-19",
+    "number": "SEN 19",
+    "name": "NICOLAS JACKSON",
+    "team": "SEN",
+    "type": "player"
+  },
+  {
+    "id": "SEN-20",
+    "number": "SEN 20",
+    "name": "KRÉPIN DIATTA",
+    "team": "SEN",
+    "type": "player"
+  },
+  {
+    "id": "IRQ-1",
+    "number": "IRQ 1",
+    "name": "BADGE",
+    "team": "IRQ",
+    "type": "badge"
+  },
+  {
+    "id": "IRQ-2",
+    "number": "IRQ 2",
+    "name": "JALAL HASSAN",
+    "team": "IRQ",
+    "type": "player"
+  },
+  {
+    "id": "IRQ-3",
+    "number": "IRQ 3",
+    "name": "REBIN SULAKA",
+    "team": "IRQ",
+    "type": "player"
+  },
+  {
+    "id": "IRQ-4",
+    "number": "IRQ 4",
+    "name": "HUSSEIN ALI",
+    "team": "IRQ",
+    "type": "player"
+  },
+  {
+    "id": "IRQ-5",
+    "number": "IRQ 5",
+    "name": "AKAM HASHEM",
+    "team": "IRQ",
+    "type": "player"
+  },
+  {
+    "id": "IRQ-6",
+    "number": "IRQ 6",
+    "name": "MERCHAS DOSKI",
+    "team": "IRQ",
+    "type": "player"
+  },
+  {
+    "id": "IRQ-7",
+    "number": "IRQ 7",
+    "name": "ZAID TAHSEEN",
+    "team": "IRQ",
+    "type": "player"
+  },
+  {
+    "id": "IRQ-8",
+    "number": "IRQ 8",
+    "name": "MANAF YOUNIS",
+    "team": "IRQ",
+    "type": "player"
+  },
+  {
+    "id": "IRQ-9",
+    "number": "IRQ 9",
+    "name": "ZIDANE IQBAL",
+    "team": "IRQ",
+    "type": "player"
+  },
+  {
+    "id": "IRQ-10",
+    "number": "IRQ 10",
+    "name": "AMIR AL-AMMARI",
+    "team": "IRQ",
+    "type": "player"
+  },
+  {
+    "id": "IRQ-11",
+    "number": "IRQ 11",
+    "name": "IBRAHIM BAVESH",
+    "team": "IRQ",
+    "type": "player"
+  },
+  {
+    "id": "IRQ-12",
+    "number": "IRQ 12",
+    "name": "ALI JASIM",
+    "team": "IRQ",
+    "type": "player"
+  },
+  {
+    "id": "IRQ-13",
+    "number": "IRQ 13",
+    "name": "SQUAD",
+    "team": "IRQ",
+    "type": "team_photo"
+  },
+  {
+    "id": "IRQ-14",
+    "number": "IRQ 14",
+    "name": "YOUSSEF AMYN",
+    "team": "IRQ",
+    "type": "player"
+  },
+  {
+    "id": "IRQ-15",
+    "number": "IRQ 15",
+    "name": "AIMAR SHER",
+    "team": "IRQ",
+    "type": "player"
+  },
+  {
+    "id": "IRQ-16",
+    "number": "IRQ 16",
+    "name": "MARKO FARJI",
+    "team": "IRQ",
+    "type": "player"
+  },
+  {
+    "id": "IRQ-17",
+    "number": "IRQ 17",
+    "name": "OSAMA RASHID",
+    "team": "IRQ",
+    "type": "player"
+  },
+  {
+    "id": "IRQ-18",
+    "number": "IRQ 18",
+    "name": "ALI AL-HAMADI",
+    "team": "IRQ",
+    "type": "player"
+  },
+  {
+    "id": "IRQ-19",
+    "number": "IRQ 19",
+    "name": "AYMEN HUSSEIN",
+    "team": "IRQ",
+    "type": "player"
+  },
+  {
+    "id": "IRQ-20",
+    "number": "IRQ 20",
+    "name": "MOHANAD ALI",
+    "team": "IRQ",
+    "type": "player"
+  },
+  {
+    "id": "NOR-1",
+    "number": "NOR 1",
+    "name": "BADGE",
+    "team": "NOR",
+    "type": "badge"
+  },
+  {
+    "id": "NOR-2",
+    "number": "NOR 2",
+    "name": "ØRJAN NYLAND",
+    "team": "NOR",
+    "type": "player"
+  },
+  {
+    "id": "NOR-3",
+    "number": "NOR 3",
+    "name": "JULIAN RYERSON",
+    "team": "NOR",
+    "type": "player"
+  },
+  {
+    "id": "NOR-4",
+    "number": "NOR 4",
+    "name": "LEO ØSTIGÅRD",
+    "team": "NOR",
+    "type": "player"
+  },
+  {
+    "id": "NOR-5",
+    "number": "NOR 5",
+    "name": "KRISTOFFER VASSBAKK AJER",
+    "team": "NOR",
+    "type": "player"
+  },
+  {
+    "id": "NOR-6",
+    "number": "NOR 6",
+    "name": "MARCUS HOLMGREN PEDERSEN",
+    "team": "NOR",
+    "type": "player"
+  },
+  {
+    "id": "NOR-7",
+    "number": "NOR 7",
+    "name": "DAVID MØLLER WOLFE",
+    "team": "NOR",
+    "type": "player"
+  },
+  {
+    "id": "NOR-8",
+    "number": "NOR 8",
+    "name": "TORBJØRN HEGGEM",
+    "team": "NOR",
+    "type": "player"
+  },
+  {
+    "id": "NOR-9",
+    "number": "NOR 9",
+    "name": "MORTEN THORSBY",
+    "team": "NOR",
+    "type": "player"
+  },
+  {
+    "id": "NOR-10",
+    "number": "NOR 10",
+    "name": "MARTIN ØDEGAARD",
+    "team": "NOR",
+    "type": "player"
+  },
+  {
+    "id": "NOR-11",
+    "number": "NOR 11",
+    "name": "SANDER BERGE",
+    "team": "NOR",
+    "type": "player"
+  },
+  {
+    "id": "NOR-12",
+    "number": "NOR 12",
+    "name": "ANDREAS SCHJELDERUP",
+    "team": "NOR",
+    "type": "player"
+  },
+  {
+    "id": "NOR-13",
+    "number": "NOR 13",
+    "name": "SQUAD",
+    "team": "NOR",
+    "type": "team_photo"
+  },
+  {
+    "id": "NOR-14",
+    "number": "NOR 14",
+    "name": "PATRICK BERG",
+    "team": "NOR",
+    "type": "player"
+  },
+  {
+    "id": "NOR-15",
+    "number": "NOR 15",
+    "name": "ERLING HAALAND",
+    "team": "NOR",
+    "type": "player"
+  },
+  {
+    "id": "NOR-16",
+    "number": "NOR 16",
+    "name": "ALEXANDER SØRLOTH",
+    "team": "NOR",
+    "type": "player"
+  },
+  {
+    "id": "NOR-17",
+    "number": "NOR 17",
+    "name": "ARON DØNNUM",
+    "team": "NOR",
+    "type": "player"
+  },
+  {
+    "id": "NOR-18",
+    "number": "NOR 18",
+    "name": "JØRGEN STRAND LARSEN",
+    "team": "NOR",
+    "type": "player"
+  },
+  {
+    "id": "NOR-19",
+    "number": "NOR 19",
+    "name": "ANTONIO MUSA",
+    "team": "NOR",
+    "type": "player"
+  },
+  {
+    "id": "NOR-20",
+    "number": "NOR 20",
+    "name": "OSCAR BOBB",
+    "team": "NOR",
+    "type": "player"
+  },
+  {
+    "id": "ARG-1",
+    "number": "ARG 1",
+    "name": "BADGE",
+    "team": "ARG",
+    "type": "badge"
+  },
+  {
+    "id": "ARG-2",
+    "number": "ARG 2",
+    "name": "EMILIANO MARTÍNEZ",
+    "team": "ARG",
+    "type": "player"
+  },
+  {
+    "id": "ARG-3",
+    "number": "ARG 3",
+    "name": "NAHUEL MOLINA",
+    "team": "ARG",
+    "type": "player"
+  },
+  {
+    "id": "ARG-4",
+    "number": "ARG 4",
+    "name": "CRISTIAN ROMERO",
+    "team": "ARG",
+    "type": "player"
+  },
+  {
+    "id": "ARG-5",
+    "number": "ARG 5",
+    "name": "NICOLÁS OTAMENDI",
+    "team": "ARG",
+    "type": "player"
+  },
+  {
+    "id": "ARG-6",
+    "number": "ARG 6",
+    "name": "NICOLÁS TAGLIAFICO",
+    "team": "ARG",
+    "type": "player"
+  },
+  {
+    "id": "ARG-7",
+    "number": "ARG 7",
+    "name": "LEONARDO BALERDI",
+    "team": "ARG",
+    "type": "player"
+  },
+  {
+    "id": "ARG-8",
+    "number": "ARG 8",
+    "name": "ENZO FERNÁNDEZ",
+    "team": "ARG",
+    "type": "player"
+  },
+  {
+    "id": "ARG-9",
+    "number": "ARG 9",
+    "name": "ALEXIS MAC ALLISTER",
+    "team": "ARG",
+    "type": "player"
+  },
+  {
+    "id": "ARG-10",
+    "number": "ARG 10",
+    "name": "RODRIGO DE PAUL",
+    "team": "ARG",
+    "type": "player"
+  },
+  {
+    "id": "ARG-11",
+    "number": "ARG 11",
+    "name": "EXEQUIEL PALACIOS",
+    "team": "ARG",
+    "type": "player"
+  },
+  {
+    "id": "ARG-12",
+    "number": "ARG 12",
+    "name": "LEANDRO PAREDES",
+    "team": "ARG",
+    "type": "player"
+  },
+  {
+    "id": "ARG-13",
+    "number": "ARG 13",
+    "name": "SQUAD",
+    "team": "ARG",
+    "type": "team_photo"
+  },
+  {
+    "id": "ARG-14",
+    "number": "ARG 14",
+    "name": "NICO PAZ",
+    "team": "ARG",
+    "type": "player"
+  },
+  {
+    "id": "ARG-15",
+    "number": "ARG 15",
+    "name": "FRANCO MASTANTUONO",
+    "team": "ARG",
+    "type": "player"
+  },
+  {
+    "id": "ARG-16",
+    "number": "ARG 16",
+    "name": "NICO GONZÁLEZ",
+    "team": "ARG",
+    "type": "player"
+  },
+  {
+    "id": "ARG-17",
+    "number": "ARG 17",
+    "name": "LIONEL MESSI",
+    "team": "ARG",
+    "type": "player"
+  },
+  {
+    "id": "ARG-18",
+    "number": "ARG 18",
+    "name": "LAUTARO MARTÍNEZ",
+    "team": "ARG",
+    "type": "player"
+  },
+  {
+    "id": "ARG-19",
+    "number": "ARG 19",
+    "name": "JULIÁN ÁLVAREZ",
+    "team": "ARG",
+    "type": "player"
+  },
+  {
+    "id": "ARG-20",
+    "number": "ARG 20",
+    "name": "GIULIANO SIMEONE",
+    "team": "ARG",
+    "type": "player"
+  },
+  {
+    "id": "ALG-1",
+    "number": "ALG 1",
+    "name": "BADGE",
+    "team": "ALG",
+    "type": "badge"
+  },
+  {
+    "id": "ALG-2",
+    "number": "ALG 2",
+    "name": "ALEXIS GUENDOUZ",
+    "team": "ALG",
+    "type": "player"
+  },
+  {
+    "id": "ALG-3",
+    "number": "ALG 3",
+    "name": "RAMY BENSEBAINI",
+    "team": "ALG",
+    "type": "player"
+  },
+  {
+    "id": "ALG-4",
+    "number": "ALG 4",
+    "name": "YOUCEF ATAL",
+    "team": "ALG",
+    "type": "player"
+  },
+  {
+    "id": "ALG-5",
+    "number": "ALG 5",
+    "name": "RAYAN AÏT-NOURI",
+    "team": "ALG",
+    "type": "player"
+  },
+  {
+    "id": "ALG-6",
+    "number": "ALG 6",
+    "name": "MOHAMED AMINE TOUGAI",
+    "team": "ALG",
+    "type": "player"
+  },
+  {
+    "id": "ALG-7",
+    "number": "ALG 7",
+    "name": "AÏSSA MANDI",
+    "team": "ALG",
+    "type": "player"
+  },
+  {
+    "id": "ALG-8",
+    "number": "ALG 8",
+    "name": "ISMAÉL BENNACER",
+    "team": "ALG",
+    "type": "player"
+  },
+  {
+    "id": "ALG-9",
+    "number": "ALG 9",
+    "name": "HOUSSEM AOUAR",
+    "team": "ALG",
+    "type": "player"
+  },
+  {
+    "id": "ALG-10",
+    "number": "ALG 10",
+    "name": "HICHAM BOUDAOUI",
+    "team": "ALG",
+    "type": "player"
+  },
+  {
+    "id": "ALG-11",
+    "number": "ALG 11",
+    "name": "RAMIZ ZERROUKI",
+    "team": "ALG",
+    "type": "player"
+  },
+  {
+    "id": "ALG-12",
+    "number": "ALG 12",
+    "name": "NABIL BENTALEB",
+    "team": "ALG",
+    "type": "player"
+  },
+  {
+    "id": "ALG-13",
+    "number": "ALG 13",
+    "name": "SQUAD",
+    "team": "ALG",
+    "type": "team_photo"
+  },
+  {
+    "id": "ALG-14",
+    "number": "ALG 14",
+    "name": "FARÈS CHAÏBI",
+    "team": "ALG",
+    "type": "player"
+  },
+  {
+    "id": "ALG-15",
+    "number": "ALG 15",
+    "name": "RIYAD MAHREZ",
+    "team": "ALG",
+    "type": "player"
+  },
+  {
+    "id": "ALG-16",
+    "number": "ALG 16",
+    "name": "SAÏD BENRAHMA",
+    "team": "ALG",
+    "type": "player"
+  },
+  {
+    "id": "ALG-17",
+    "number": "ALG 17",
+    "name": "ANIS HADJ MOUSSA",
+    "team": "ALG",
+    "type": "player"
+  },
+  {
+    "id": "ALG-18",
+    "number": "ALG 18",
+    "name": "AMINE GOUIRI",
+    "team": "ALG",
+    "type": "player"
+  },
+  {
+    "id": "ALG-19",
+    "number": "ALG 19",
+    "name": "BAGHDAD BOUNEDJAH",
+    "team": "ALG",
+    "type": "player"
+  },
+  {
+    "id": "ALG-20",
+    "number": "ALG 20",
+    "name": "MOHAMMED AMOURA",
+    "team": "ALG",
+    "type": "player"
+  },
+  {
+    "id": "AUT-1",
+    "number": "AUT 1",
+    "name": "BADGE",
+    "team": "AUT",
+    "type": "badge"
+  },
+  {
+    "id": "AUT-2",
+    "number": "AUT 2",
+    "name": "ALEXANDER SCHLAGER",
+    "team": "AUT",
+    "type": "player"
+  },
+  {
+    "id": "AUT-3",
+    "number": "AUT 3",
+    "name": "PATRICK PENTZ",
+    "team": "AUT",
+    "type": "player"
+  },
+  {
+    "id": "AUT-4",
+    "number": "AUT 4",
+    "name": "DAVID ALABA",
+    "team": "AUT",
+    "type": "player"
+  },
+  {
+    "id": "AUT-5",
+    "number": "AUT 5",
+    "name": "KEVIN DANSO",
+    "team": "AUT",
+    "type": "player"
+  },
+  {
+    "id": "AUT-6",
+    "number": "AUT 6",
+    "name": "PHILIPP LIENHART",
+    "team": "AUT",
+    "type": "player"
+  },
+  {
+    "id": "AUT-7",
+    "number": "AUT 7",
+    "name": "STEFAN BOSCH",
+    "team": "AUT",
+    "type": "player"
+  },
+  {
+    "id": "AUT-8",
+    "number": "AUT 8",
+    "name": "PHILLIPP MWENE",
+    "team": "AUT",
+    "type": "player"
+  },
+  {
+    "id": "AUT-9",
+    "number": "AUT 9",
+    "name": "ALEXANDER PRASS",
+    "team": "AUT",
+    "type": "player"
+  },
+  {
+    "id": "AUT-10",
+    "number": "AUT 10",
+    "name": "XAVER SCHLAGER",
+    "team": "AUT",
+    "type": "player"
+  },
+  {
+    "id": "AUT-11",
+    "number": "AUT 11",
+    "name": "MARCEL SABITZER",
+    "team": "AUT",
+    "type": "player"
+  },
+  {
+    "id": "AUT-12",
+    "number": "AUT 12",
+    "name": "KONRAD LAIMER",
+    "team": "AUT",
+    "type": "player"
+  },
+  {
+    "id": "AUT-13",
+    "number": "AUT 13",
+    "name": "SQUAD",
+    "team": "AUT",
+    "type": "team_photo"
+  },
+  {
+    "id": "AUT-14",
+    "number": "AUT 14",
+    "name": "FLORIAN GRILLITSCH",
+    "team": "AUT",
+    "type": "player"
+  },
+  {
+    "id": "AUT-15",
+    "number": "AUT 15",
+    "name": "NICOLAS SEIWALD",
+    "team": "AUT",
+    "type": "player"
+  },
+  {
+    "id": "AUT-16",
+    "number": "AUT 16",
+    "name": "ROMANO SCHMID",
+    "team": "AUT",
+    "type": "player"
+  },
+  {
+    "id": "AUT-17",
+    "number": "AUT 17",
+    "name": "PATRICK WIMMER",
+    "team": "AUT",
+    "type": "player"
+  },
+  {
+    "id": "AUT-18",
+    "number": "AUT 18",
+    "name": "CHRISTOPH BAUMGARTNER",
+    "team": "AUT",
+    "type": "player"
+  },
+  {
+    "id": "AUT-19",
+    "number": "AUT 19",
+    "name": "MICHAEL GREGORITSCH",
+    "team": "AUT",
+    "type": "player"
+  },
+  {
+    "id": "AUT-20",
+    "number": "AUT 20",
+    "name": "MARKO ARNAUTOVIĆ",
+    "team": "AUT",
+    "type": "player"
+  },
+  {
+    "id": "JOR-1",
+    "number": "JOR 1",
+    "name": "BADGE",
+    "team": "JOR",
+    "type": "badge"
+  },
+  {
+    "id": "JOR-2",
+    "number": "JOR 2",
+    "name": "YAZEED ABULAILA",
+    "team": "JOR",
+    "type": "player"
+  },
+  {
+    "id": "JOR-3",
+    "number": "JOR 3",
+    "name": "IHSAN HADDAD",
+    "team": "JOR",
+    "type": "player"
+  },
+  {
+    "id": "JOR-4",
+    "number": "JOR 4",
+    "name": "MOHAMMAD ABU HASHISH",
+    "team": "JOR",
+    "type": "player"
+  },
+  {
+    "id": "JOR-5",
+    "number": "JOR 5",
+    "name": "YAZAN AL-ARAB",
+    "team": "JOR",
+    "type": "player"
+  },
+  {
+    "id": "JOR-6",
+    "number": "JOR 6",
+    "name": "ABDULLAH NASIB",
+    "team": "JOR",
+    "type": "player"
+  },
+  {
+    "id": "JOR-7",
+    "number": "JOR 7",
+    "name": "SALEEM OBAID",
+    "team": "JOR",
+    "type": "player"
+  },
+  {
+    "id": "JOR-8",
+    "number": "JOR 8",
+    "name": "MOHAMMAD ABUALNADI",
+    "team": "JOR",
+    "type": "player"
+  },
+  {
+    "id": "JOR-9",
+    "number": "JOR 9",
+    "name": "IBRAHIM SAADEH",
+    "team": "JOR",
+    "type": "player"
+  },
+  {
+    "id": "JOR-10",
+    "number": "JOR 10",
+    "name": "NIZAR AL-RASHDAN",
+    "team": "JOR",
+    "type": "player"
+  },
+  {
+    "id": "JOR-11",
+    "number": "JOR 11",
+    "name": "NOOR AL-RAWABDER",
+    "team": "JOR",
+    "type": "player"
+  },
+  {
+    "id": "JOR-12",
+    "number": "JOR 12",
+    "name": "MOHANNAD ABU TAHA",
+    "team": "JOR",
+    "type": "player"
+  },
+  {
+    "id": "JOR-13",
+    "number": "JOR 13",
+    "name": "SQUAD",
+    "team": "JOR",
+    "type": "team_photo"
+  },
+  {
+    "id": "JOR-14",
+    "number": "JOR 14",
+    "name": "AMER JAMOUS",
+    "team": "JOR",
+    "type": "player"
+  },
+  {
+    "id": "JOR-15",
+    "number": "JOR 15",
+    "name": "MOUSA AL-TAAMARI",
+    "team": "JOR",
+    "type": "player"
+  },
+  {
+    "id": "JOR-16",
+    "number": "JOR 16",
+    "name": "YAZAN AL-NAIMAT",
+    "team": "JOR",
+    "type": "player"
+  },
+  {
+    "id": "JOR-17",
+    "number": "JOR 17",
+    "name": "MAHMOUD AL-MARDI",
+    "team": "JOR",
+    "type": "player"
+  },
+  {
+    "id": "JOR-18",
+    "number": "JOR 18",
+    "name": "ALI OLWAN",
+    "team": "JOR",
+    "type": "player"
+  },
+  {
+    "id": "JOR-19",
+    "number": "JOR 19",
+    "name": "MOHAMMAD ABU ZRAYQ",
+    "team": "JOR",
+    "type": "player"
+  },
+  {
+    "id": "JOR-20",
+    "number": "JOR 20",
+    "name": "IBRAHIM SABRA",
+    "team": "JOR",
+    "type": "player"
+  },
+  {
+    "id": "POR-1",
+    "number": "POR 1",
+    "name": "BADGE",
+    "team": "POR",
+    "type": "badge"
+  },
+  {
+    "id": "POR-2",
+    "number": "POR 2",
+    "name": "DIOGO COSTA",
+    "team": "POR",
+    "type": "player"
+  },
+  {
+    "id": "POR-3",
+    "number": "POR 3",
+    "name": "JOSÉ SÁ",
+    "team": "POR",
+    "type": "player"
+  },
+  {
+    "id": "POR-4",
+    "number": "POR 4",
+    "name": "RUBÉN DIAS",
+    "team": "POR",
+    "type": "player"
+  },
+  {
+    "id": "POR-5",
+    "number": "POR 5",
+    "name": "JOÃO CANCELO",
+    "team": "POR",
+    "type": "player"
+  },
+  {
+    "id": "POR-6",
+    "number": "POR 6",
+    "name": "DIOGO DALOT",
+    "team": "POR",
+    "type": "player"
+  },
+  {
+    "id": "POR-7",
+    "number": "POR 7",
+    "name": "NUNO MENDES",
+    "team": "POR",
+    "type": "player"
+  },
+  {
+    "id": "POR-8",
+    "number": "POR 8",
+    "name": "GONÇALO INÁCIO",
+    "team": "POR",
+    "type": "player"
+  },
+  {
+    "id": "POR-9",
+    "number": "POR 9",
+    "name": "BERNADO SILVA",
+    "team": "POR",
+    "type": "player"
+  },
+  {
+    "id": "POR-10",
+    "number": "POR 10",
+    "name": "BRUNO FERNANDES",
+    "team": "POR",
+    "type": "player"
+  },
+  {
+    "id": "POR-11",
+    "number": "POR 11",
+    "name": "RUBÉN NEVES",
+    "team": "POR",
+    "type": "player"
+  },
+  {
+    "id": "POR-12",
+    "number": "POR 12",
+    "name": "VITINHA",
+    "team": "POR",
+    "type": "player"
+  },
+  {
+    "id": "POR-13",
+    "number": "POR 13",
+    "name": "SQUAD",
+    "team": "POR",
+    "type": "team_photo"
+  },
+  {
+    "id": "POR-14",
+    "number": "POR 14",
+    "name": "JOÃO NEVES",
+    "team": "POR",
+    "type": "player"
+  },
+  {
+    "id": "POR-15",
+    "number": "POR 15",
+    "name": "CRISTIANO RONALDO",
+    "team": "POR",
+    "type": "player"
+  },
+  {
+    "id": "POR-16",
+    "number": "POR 16",
+    "name": "FRANCISCO TRINCÃO",
+    "team": "POR",
+    "type": "player"
+  },
+  {
+    "id": "POR-17",
+    "number": "POR 17",
+    "name": "JOÃO FELIX",
+    "team": "POR",
+    "type": "player"
+  },
+  {
+    "id": "POR-18",
+    "number": "POR 18",
+    "name": "GONÇALO RAMOS",
+    "team": "POR",
+    "type": "player"
+  },
+  {
+    "id": "POR-19",
+    "number": "POR 19",
+    "name": "PEDRO NETO",
+    "team": "POR",
+    "type": "player"
+  },
+  {
+    "id": "POR-20",
+    "number": "POR 20",
+    "name": "RAFAEL LEÃO",
+    "team": "POR",
+    "type": "player"
+  },
+  {
+    "id": "COD-1",
+    "number": "COD 1",
+    "name": "BADGE",
+    "team": "COD",
+    "type": "badge"
+  },
+  {
+    "id": "COD-2",
+    "number": "COD 2",
+    "name": "LIONEL MPASI",
+    "team": "COD",
+    "type": "player"
+  },
+  {
+    "id": "COD-3",
+    "number": "COD 3",
+    "name": "AARON WAN-BISSAKA",
+    "team": "COD",
+    "type": "player"
+  },
+  {
+    "id": "COD-4",
+    "number": "COD 4",
+    "name": "AXEL TUANZEBE",
+    "team": "COD",
+    "type": "player"
+  },
+  {
+    "id": "COD-5",
+    "number": "COD 5",
+    "name": "ARTHUR MASUAKU",
+    "team": "COD",
+    "type": "player"
+  },
+  {
+    "id": "COD-6",
+    "number": "COD 6",
+    "name": "CHANCEL MBEMBA",
+    "team": "COD",
+    "type": "player"
+  },
+  {
+    "id": "COD-7",
+    "number": "COD 7",
+    "name": "JORIS KAYEMBE",
+    "team": "COD",
+    "type": "player"
+  },
+  {
+    "id": "COD-8",
+    "number": "COD 8",
+    "name": "CHARLES PICKEL",
+    "team": "COD",
+    "type": "player"
+  },
+  {
+    "id": "COD-9",
+    "number": "COD 9",
+    "name": "NGAL&#x27;AYEL MUKAU",
+    "team": "COD",
+    "type": "player"
+  },
+  {
+    "id": "COD-10",
+    "number": "COD 10",
+    "name": "EDO KAYEMBE",
+    "team": "COD",
+    "type": "player"
+  },
+  {
+    "id": "COD-11",
+    "number": "COD 11",
+    "name": "SAMUEL MOUTOUSSAMY",
+    "team": "COD",
+    "type": "player"
+  },
+  {
+    "id": "COD-12",
+    "number": "COD 12",
+    "name": "NOAH SADIKI",
+    "team": "COD",
+    "type": "player"
+  },
+  {
+    "id": "COD-13",
+    "number": "COD 13",
+    "name": "SQUAD",
+    "team": "COD",
+    "type": "team_photo"
+  },
+  {
+    "id": "COD-14",
+    "number": "COD 14",
+    "name": "THÉO BONGONDA",
+    "team": "COD",
+    "type": "player"
+  },
+  {
+    "id": "COD-15",
+    "number": "COD 15",
+    "name": "MESCHACK ELIA",
+    "team": "COD",
+    "type": "player"
+  },
+  {
+    "id": "COD-16",
+    "number": "COD 16",
+    "name": "YOANE WISSA",
+    "team": "COD",
+    "type": "player"
+  },
+  {
+    "id": "COD-17",
+    "number": "COD 17",
+    "name": "BRIAN CIPENGA",
+    "team": "COD",
+    "type": "player"
+  },
+  {
+    "id": "COD-18",
+    "number": "COD 18",
+    "name": "FISTON MAYELE",
+    "team": "COD",
+    "type": "player"
+  },
+  {
+    "id": "COD-19",
+    "number": "COD 19",
+    "name": "CÉDRIC BAKAMBU",
+    "team": "COD",
+    "type": "player"
+  },
+  {
+    "id": "COD-20",
+    "number": "COD 20",
+    "name": "NATHANAÉL MBUKU",
+    "team": "COD",
+    "type": "player"
+  },
+  {
+    "id": "UZB-1",
+    "number": "UZB 1",
+    "name": "BADGE",
+    "team": "UZB",
+    "type": "badge"
+  },
+  {
+    "id": "UZB-2",
+    "number": "UZB 2",
+    "name": "UTKIR YUSUPOV",
+    "team": "UZB",
+    "type": "player"
+  },
+  {
+    "id": "UZB-3",
+    "number": "UZB 3",
+    "name": "FARRUKH SAYFIEV",
+    "team": "UZB",
+    "type": "player"
+  },
+  {
+    "id": "UZB-4",
+    "number": "UZB 4",
+    "name": "SHERZOD NASRULLAEV",
+    "team": "UZB",
+    "type": "player"
+  },
+  {
+    "id": "UZB-5",
+    "number": "UZB 5",
+    "name": "UMAR ESHMURODOV",
+    "team": "UZB",
+    "type": "player"
+  },
+  {
+    "id": "UZB-6",
+    "number": "UZB 6",
+    "name": "HUSNIDDIN ALIQULOV",
+    "team": "UZB",
+    "type": "player"
+  },
+  {
+    "id": "UZB-7",
+    "number": "UZB 7",
+    "name": "RUSTAM ASHURMATOV",
+    "team": "UZB",
+    "type": "player"
+  },
+  {
+    "id": "UZB-8",
+    "number": "UZB 8",
+    "name": "KHOJIAKBAR ALIJONOV",
+    "team": "UZB",
+    "type": "player"
+  },
+  {
+    "id": "UZB-9",
+    "number": "UZB 9",
+    "name": "ABDUKODIR KHUSANOV",
+    "team": "UZB",
+    "type": "player"
+  },
+  {
+    "id": "UZB-10",
+    "number": "UZB 10",
+    "name": "ODILJON HAMROBEKOV",
+    "team": "UZB",
+    "type": "player"
+  },
+  {
+    "id": "UZB-11",
+    "number": "UZB 11",
+    "name": "OTABEK SHUKUROV",
+    "team": "UZB",
+    "type": "player"
+  },
+  {
+    "id": "UZB-12",
+    "number": "UZB 12",
+    "name": "JAMSHID ISKANDEROV",
+    "team": "UZB",
+    "type": "player"
+  },
+  {
+    "id": "UZB-13",
+    "number": "UZB 13",
+    "name": "SQUAD",
+    "team": "UZB",
+    "type": "team_photo"
+  },
+  {
+    "id": "UZB-14",
+    "number": "UZB 14",
+    "name": "AZIZBEK TURGUNBOEV",
+    "team": "UZB",
+    "type": "player"
+  },
+  {
+    "id": "UZB-15",
+    "number": "UZB 15",
+    "name": "KHOJIMAT ERKINOV",
+    "team": "UZB",
+    "type": "player"
+  },
+  {
+    "id": "UZB-16",
+    "number": "UZB 16",
+    "name": "ELDOR SHOMURODOV",
+    "team": "UZB",
+    "type": "player"
+  },
+  {
+    "id": "UZB-17",
+    "number": "UZB 17",
+    "name": "OSTON URUNOV",
+    "team": "UZB",
+    "type": "player"
+  },
+  {
+    "id": "UZB-18",
+    "number": "UZB 18",
+    "name": "JALOLIDOIN MASHARIPOV",
+    "team": "UZB",
+    "type": "player"
+  },
+  {
+    "id": "UZB-19",
+    "number": "UZB 19",
+    "name": "IGOR SERGEEV",
+    "team": "UZB",
+    "type": "player"
+  },
+  {
+    "id": "UZB-20",
+    "number": "UZB 20",
+    "name": "ABBOSBEK FAYZULLAEV",
+    "team": "UZB",
+    "type": "player"
+  },
+  {
+    "id": "COL-1",
+    "number": "COL 1",
+    "name": "BADGE",
+    "team": "COL",
+    "type": "badge"
+  },
+  {
+    "id": "COL-2",
+    "number": "COL 2",
+    "name": "CAMILO VARGAS",
+    "team": "COL",
+    "type": "player"
+  },
+  {
+    "id": "COL-3",
+    "number": "COL 3",
+    "name": "DAVID OSPINA",
+    "team": "COL",
+    "type": "player"
+  },
+  {
+    "id": "COL-4",
+    "number": "COL 4",
+    "name": "DÁVINSON SÁNCHEZ",
+    "team": "COL",
+    "type": "player"
+  },
+  {
+    "id": "COL-5",
+    "number": "COL 5",
+    "name": "YERRY MINA",
+    "team": "COL",
+    "type": "player"
+  },
+  {
+    "id": "COL-6",
+    "number": "COL 6",
+    "name": "DANIEL MUÑOZ",
+    "team": "COL",
+    "type": "player"
+  },
+  {
+    "id": "COL-7",
+    "number": "COL 7",
+    "name": "JOHAN MOJICA",
+    "team": "COL",
+    "type": "player"
+  },
+  {
+    "id": "COL-8",
+    "number": "COL 8",
+    "name": "JHON LUCUMÍ",
+    "team": "COL",
+    "type": "player"
+  },
+  {
+    "id": "COL-9",
+    "number": "COL 9",
+    "name": "SANTIAGO ARIAS",
+    "team": "COL",
+    "type": "player"
+  },
+  {
+    "id": "COL-10",
+    "number": "COL 10",
+    "name": "JEFFERSON LERMA",
+    "team": "COL",
+    "type": "player"
+  },
+  {
+    "id": "COL-11",
+    "number": "COL 11",
+    "name": "KEVIN CASTAÑO",
+    "team": "COL",
+    "type": "player"
+  },
+  {
+    "id": "COL-12",
+    "number": "COL 12",
+    "name": "RICHARD RÍOS",
+    "team": "COL",
+    "type": "player"
+  },
+  {
+    "id": "COL-13",
+    "number": "COL 13",
+    "name": "SQUAD",
+    "team": "COL",
+    "type": "team_photo"
+  },
+  {
+    "id": "COL-14",
+    "number": "COL 14",
+    "name": "JAMES RODRÍGUEZ",
+    "team": "COL",
+    "type": "player"
+  },
+  {
+    "id": "COL-15",
+    "number": "COL 15",
+    "name": "JUAN FERNANDO QUINTERO",
+    "team": "COL",
+    "type": "player"
+  },
+  {
+    "id": "COL-16",
+    "number": "COL 16",
+    "name": "JORGE CARRASCAL",
+    "team": "COL",
+    "type": "player"
+  },
+  {
+    "id": "COL-17",
+    "number": "COL 17",
+    "name": "JHON ARIAS",
+    "team": "COL",
+    "type": "player"
+  },
+  {
+    "id": "COL-18",
+    "number": "COL 18",
+    "name": "JHON CÓRDOVA",
+    "team": "COL",
+    "type": "player"
+  },
+  {
+    "id": "COL-19",
+    "number": "COL 19",
+    "name": "LUIS SUÁREZ",
+    "team": "COL",
+    "type": "player"
+  },
+  {
+    "id": "COL-20",
+    "number": "COL 20",
+    "name": "LUIS DÍAZ",
+    "team": "COL",
+    "type": "player"
+  },
+  {
+    "id": "ENG-1",
+    "number": "ENG 1",
+    "name": "BADGE",
+    "team": "ENG",
+    "type": "badge"
+  },
+  {
+    "id": "ENG-2",
+    "number": "ENG 2",
+    "name": "JORDAN PICKFORD",
+    "team": "ENG",
+    "type": "player"
+  },
+  {
+    "id": "ENG-3",
+    "number": "ENG 3",
+    "name": "JOHN STONES",
+    "team": "ENG",
+    "type": "player"
+  },
+  {
+    "id": "ENG-4",
+    "number": "ENG 4",
+    "name": "MARC GUÉHI",
+    "team": "ENG",
+    "type": "player"
+  },
+  {
+    "id": "ENG-5",
+    "number": "ENG 5",
+    "name": "EZRI KONSA",
+    "team": "ENG",
+    "type": "player"
+  },
+  {
+    "id": "ENG-6",
+    "number": "ENG 6",
+    "name": "TRENT ALEXANDER-ARNOLD",
+    "team": "ENG",
+    "type": "player"
+  },
+  {
+    "id": "ENG-7",
+    "number": "ENG 7",
+    "name": "REECE JAMES",
+    "team": "ENG",
+    "type": "player"
+  },
+  {
+    "id": "ENG-8",
+    "number": "ENG 8",
+    "name": "DAN BURN",
+    "team": "ENG",
+    "type": "player"
+  },
+  {
+    "id": "ENG-9",
+    "number": "ENG 9",
+    "name": "JORDAN HENDERSON",
+    "team": "ENG",
+    "type": "player"
+  },
+  {
+    "id": "ENG-10",
+    "number": "ENG 10",
+    "name": "DECLAN RICE",
+    "team": "ENG",
+    "type": "player"
+  },
+  {
+    "id": "ENG-11",
+    "number": "ENG 11",
+    "name": "JUDE BELLINGHAM",
+    "team": "ENG",
+    "type": "player"
+  },
+  {
+    "id": "ENG-12",
+    "number": "ENG 12",
+    "name": "COLE PALMER",
+    "team": "ENG",
+    "type": "player"
+  },
+  {
+    "id": "ENG-13",
+    "number": "ENG 13",
+    "name": "SQUAD",
+    "team": "ENG",
+    "type": "team_photo"
+  },
+  {
+    "id": "ENG-14",
+    "number": "ENG 14",
+    "name": "MORGAN ROGERS",
+    "team": "ENG",
+    "type": "player"
+  },
+  {
+    "id": "ENG-15",
+    "number": "ENG 15",
+    "name": "ANTHONY GORDON",
+    "team": "ENG",
+    "type": "player"
+  },
+  {
+    "id": "ENG-16",
+    "number": "ENG 16",
+    "name": "PHIL FODEN",
+    "team": "ENG",
+    "type": "player"
+  },
+  {
+    "id": "ENG-17",
+    "number": "ENG 17",
+    "name": "BUKAYO SAKA",
+    "team": "ENG",
+    "type": "player"
+  },
+  {
+    "id": "ENG-18",
+    "number": "ENG 18",
+    "name": "HARRY KANE",
+    "team": "ENG",
+    "type": "player"
+  },
+  {
+    "id": "ENG-19",
+    "number": "ENG 19",
+    "name": "MARCUS RASHFORD",
+    "team": "ENG",
+    "type": "player"
+  },
+  {
+    "id": "ENG-20",
+    "number": "ENG 20",
+    "name": "OLLIE WATKINS",
+    "team": "ENG",
+    "type": "player"
+  },
+  {
+    "id": "CRO-1",
+    "number": "CRO 1",
+    "name": "BADGE",
+    "team": "CRO",
+    "type": "badge"
+  },
+  {
+    "id": "CRO-2",
+    "number": "CRO 2",
+    "name": "DOMINIK LIVAKOVIĆ",
+    "team": "CRO",
+    "type": "player"
+  },
+  {
+    "id": "CRO-3",
+    "number": "CRO 3",
+    "name": "DUJE CALETA-CAR",
+    "team": "CRO",
+    "type": "player"
+  },
+  {
+    "id": "CRO-4",
+    "number": "CRO 4",
+    "name": "JOŠKO GVARDIOL",
+    "team": "CRO",
+    "type": "player"
+  },
+  {
+    "id": "CRO-5",
+    "number": "CRO 5",
+    "name": "JOSIP STANIŠIĆ",
+    "team": "CRO",
+    "type": "player"
+  },
+  {
+    "id": "CRO-6",
+    "number": "CRO 6",
+    "name": "LUKA VUŠKOVIĆ",
+    "team": "CRO",
+    "type": "player"
+  },
+  {
+    "id": "CRO-7",
+    "number": "CRO 7",
+    "name": "JOSIP ŠUTALO",
+    "team": "CRO",
+    "type": "player"
+  },
+  {
+    "id": "CRO-8",
+    "number": "CRO 8",
+    "name": "KRISTIJAN JAKIĆ",
+    "team": "CRO",
+    "type": "player"
+  },
+  {
+    "id": "CRO-9",
+    "number": "CRO 9",
+    "name": "LUKA MODRIĆ",
+    "team": "CRO",
+    "type": "player"
+  },
+  {
+    "id": "CRO-10",
+    "number": "CRO 10",
+    "name": "MATEO KOVACIC",
+    "team": "CRO",
+    "type": "player"
+  },
+  {
+    "id": "CRO-11",
+    "number": "CRO 11",
+    "name": "MARTIN BATURINA",
+    "team": "CRO",
+    "type": "player"
+  },
+  {
+    "id": "CRO-12",
+    "number": "CRO 12",
+    "name": "LOVRO MAJER",
+    "team": "CRO",
+    "type": "player"
+  },
+  {
+    "id": "CRO-13",
+    "number": "CRO 13",
+    "name": "SQUAD",
+    "team": "CRO",
+    "type": "team_photo"
+  },
+  {
+    "id": "CRO-14",
+    "number": "CRO 14",
+    "name": "MARIO PAŠALIĆ",
+    "team": "CRO",
+    "type": "player"
+  },
+  {
+    "id": "CRO-15",
+    "number": "CRO 15",
+    "name": "PETAR SUČIĆ",
+    "team": "CRO",
+    "type": "player"
+  },
+  {
+    "id": "CRO-16",
+    "number": "CRO 16",
+    "name": "IVAN PERIŠIĆ",
+    "team": "CRO",
+    "type": "player"
+  },
+  {
+    "id": "CRO-17",
+    "number": "CRO 17",
+    "name": "MARCO PAŠALIĆ",
+    "team": "CRO",
+    "type": "player"
+  },
+  {
+    "id": "CRO-18",
+    "number": "CRO 18",
+    "name": "ANTE BUDIMIR",
+    "team": "CRO",
+    "type": "player"
+  },
+  {
+    "id": "CRO-19",
+    "number": "CRO 19",
+    "name": "ANDREJ KRAMARIĆ",
+    "team": "CRO",
+    "type": "player"
+  },
+  {
+    "id": "CRO-20",
+    "number": "CRO 20",
+    "name": "FRANJO IVANOVIĆ",
+    "team": "CRO",
+    "type": "player"
+  },
+  {
+    "id": "GHA-1",
+    "number": "GHA 1",
+    "name": "BADGE",
+    "team": "GHA",
+    "type": "badge"
+  },
+  {
+    "id": "GHA-2",
+    "number": "GHA 2",
+    "name": "LAWRENCE ATI ZIGI",
+    "team": "GHA",
+    "type": "player"
+  },
+  {
+    "id": "GHA-3",
+    "number": "GHA 3",
+    "name": "TARIQ LAMPTEY",
+    "team": "GHA",
+    "type": "player"
+  },
+  {
+    "id": "GHA-4",
+    "number": "GHA 4",
+    "name": "MOHAMMED SALISU",
+    "team": "GHA",
+    "type": "player"
+  },
+  {
+    "id": "GHA-5",
+    "number": "GHA 5",
+    "name": "ALIDU SEIDU",
+    "team": "GHA",
+    "type": "player"
+  },
+  {
+    "id": "GHA-6",
+    "number": "GHA 6",
+    "name": "ALEXANDERR DJIKU",
+    "team": "GHA",
+    "type": "player"
+  },
+  {
+    "id": "GHA-7",
+    "number": "GHA 7",
+    "name": "GIDEON MENSAH",
+    "team": "GHA",
+    "type": "player"
+  },
+  {
+    "id": "GHA-8",
+    "number": "GHA 8",
+    "name": "CALEB YIRENKYI",
+    "team": "GHA",
+    "type": "player"
+  },
+  {
+    "id": "GHA-9",
+    "number": "GHA 9",
+    "name": "ABDUL ISSAHAKU FATAWU",
+    "team": "GHA",
+    "type": "player"
+  },
+  {
+    "id": "GHA-10",
+    "number": "GHA 10",
+    "name": "THOMAS PARTEY",
+    "team": "GHA",
+    "type": "player"
+  },
+  {
+    "id": "GHA-11",
+    "number": "GHA 11",
+    "name": "SALIS ABDUL SAMED",
+    "team": "GHA",
+    "type": "player"
+  },
+  {
+    "id": "GHA-12",
+    "number": "GHA 12",
+    "name": "KAMALDEEN SULEMANA",
+    "team": "GHA",
+    "type": "player"
+  },
+  {
+    "id": "GHA-13",
+    "number": "GHA 13",
+    "name": "SQUAD",
+    "team": "GHA",
+    "type": "team_photo"
+  },
+  {
+    "id": "GHA-14",
+    "number": "GHA 14",
+    "name": "MOHAMMED KUDUS",
+    "team": "GHA",
+    "type": "player"
+  },
+  {
+    "id": "GHA-15",
+    "number": "GHA 15",
+    "name": "IÑAKI WILLIAMS",
+    "team": "GHA",
+    "type": "player"
+  },
+  {
+    "id": "GHA-16",
+    "number": "GHA 16",
+    "name": "JORDAN AYEW",
+    "team": "GHA",
+    "type": "player"
+  },
+  {
+    "id": "GHA-17",
+    "number": "GHA 17",
+    "name": "ANDRÉ AYEW",
+    "team": "GHA",
+    "type": "player"
+  },
+  {
+    "id": "GHA-18",
+    "number": "GHA 18",
+    "name": "JOSEPH PAINTSIL",
+    "team": "GHA",
+    "type": "player"
+  },
+  {
+    "id": "GHA-19",
+    "number": "GHA 19",
+    "name": "OSMAN BUKARI",
+    "team": "GHA",
+    "type": "player"
+  },
+  {
+    "id": "GHA-20",
+    "number": "GHA 20",
+    "name": "ANTOINE SEMENYO",
+    "team": "GHA",
+    "type": "player"
+  },
+  {
+    "id": "PAN-1",
+    "number": "PAN 1",
+    "name": "BADGE",
+    "team": "PAN",
+    "type": "badge"
+  },
+  {
+    "id": "PAN-2",
+    "number": "PAN 2",
+    "name": "ORLANDO MOSQUERA",
+    "team": "PAN",
+    "type": "player"
+  },
+  {
+    "id": "PAN-3",
+    "number": "PAN 3",
+    "name": "LUIS MEJÍA",
+    "team": "PAN",
+    "type": "player"
+  },
+  {
+    "id": "PAN-4",
+    "number": "PAN 4",
+    "name": "FIDEL ESCOBAR",
+    "team": "PAN",
+    "type": "player"
+  },
+  {
+    "id": "PAN-5",
+    "number": "PAN 5",
+    "name": "ANDRÉS ANDRADE",
+    "team": "PAN",
+    "type": "player"
+  },
+  {
+    "id": "PAN-6",
+    "number": "PAN 6",
+    "name": "MICHAEL AMIR MURILLO",
+    "team": "PAN",
+    "type": "player"
+  },
+  {
+    "id": "PAN-7",
+    "number": "PAN 7",
+    "name": "ERIC DAVIES",
+    "team": "PAN",
+    "type": "player"
+  },
+  {
+    "id": "PAN-8",
+    "number": "PAN 8",
+    "name": "JOSÉ CÓRDOBA",
+    "team": "PAN",
+    "type": "player"
+  },
+  {
+    "id": "PAN-9",
+    "number": "PAN 9",
+    "name": "CÉSAR BLACKMAN",
+    "team": "PAN",
+    "type": "player"
+  },
+  {
+    "id": "PAN-10",
+    "number": "PAN 10",
+    "name": "CRISTIAN MARTÍN",
+    "team": "PAN",
+    "type": "player"
+  },
+  {
+    "id": "PAN-11",
+    "number": "PAN 11",
+    "name": "ANIBAL GODOY",
+    "team": "PAN",
+    "type": "player"
+  },
+  {
+    "id": "PAN-12",
+    "number": "PAN 12",
+    "name": "ADALBERTO CARRASQUILLA",
+    "team": "PAN",
+    "type": "player"
+  },
+  {
+    "id": "PAN-13",
+    "number": "PAN 13",
+    "name": "SQUAD",
+    "team": "PAN",
+    "type": "team_photo"
+  },
+  {
+    "id": "PAN-14",
+    "number": "PAN 14",
+    "name": "ÉDGAR BÁRCENAS",
+    "team": "PAN",
+    "type": "player"
+  },
+  {
+    "id": "PAN-15",
+    "number": "PAN 15",
+    "name": "CARLOS HARVEY",
+    "team": "PAN",
+    "type": "player"
+  },
+  {
+    "id": "PAN-16",
+    "number": "PAN 16",
+    "name": "ISMAEL DÍAZ",
+    "team": "PAN",
+    "type": "player"
+  },
+  {
+    "id": "PAN-17",
+    "number": "PAN 17",
+    "name": "JOSÉ FAJARDO",
+    "team": "PAN",
+    "type": "player"
+  },
+  {
+    "id": "PAN-18",
+    "number": "PAN 18",
+    "name": "CECILIO WATERMAN",
+    "team": "PAN",
+    "type": "player"
+  },
+  {
+    "id": "PAN-19",
+    "number": "PAN 19",
+    "name": "JOSÉ LUIS RODRÍGUEZ",
+    "team": "PAN",
+    "type": "player"
+  },
+  {
+    "id": "PAN-20",
+    "number": "PAN 20",
+    "name": "ALBERTO QUINTERO",
+    "team": "PAN",
+    "type": "player"
+  },
+  {
+    "id": "FWC-9",
+    "number": "FWC 9",
+    "name": "ITALY 1934",
+    "team": "FIFA",
+    "type": "misc"
+  },
+  {
+    "id": "FWC-10",
+    "number": "FWC 10",
+    "name": "URUGUAY 1950",
+    "team": "FIFA",
+    "type": "misc"
+  },
+  {
+    "id": "FWC-11",
+    "number": "FWC 11",
+    "name": "GERMANY 1964",
+    "team": "FIFA",
+    "type": "misc"
+  },
+  {
+    "id": "FWC-12",
+    "number": "FWC 12",
+    "name": "BRAZIL 1962",
+    "team": "FIFA",
+    "type": "misc"
+  },
+  {
+    "id": "FWC-13",
+    "number": "FWC 13",
+    "name": "GERMANY 1974",
+    "team": "FIFA",
+    "type": "misc"
+  },
+  {
+    "id": "FWC-14",
+    "number": "FWC 14",
+    "name": "ARGENTINA 1986",
+    "team": "FIFA",
+    "type": "misc"
+  },
+  {
+    "id": "FWC-15",
+    "number": "FWC 15",
+    "name": "BRAZIL 1994",
+    "team": "FIFA",
+    "type": "misc"
+  },
+  {
+    "id": "FWC-16",
+    "number": "FWC 16",
+    "name": "BRAZIL 2002",
+    "team": "FIFA",
+    "type": "misc"
+  },
+  {
+    "id": "FWC-17",
+    "number": "FWC 17",
+    "name": "ITALY 2006",
+    "team": "FIFA",
+    "type": "misc"
+  },
+  {
+    "id": "FWC-18",
+    "number": "FWC 18",
+    "name": "GERMANY 2014",
+    "team": "FIFA",
+    "type": "misc"
+  },
+  {
+    "id": "FWC-19",
+    "number": "FWC 19",
+    "name": "ARGENTINA 2022",
+    "team": "FIFA",
+    "type": "misc"
+  }
+]
