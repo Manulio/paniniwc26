@@ -17,6 +17,7 @@ import type {
 export default function TradePage() {
   const [participants, setParticipants] = useState<TradeParticipant[]>([]);
   const [suggestions, setSuggestions] = useState<TradeSuggestion[]>([]);
+  const [hasCalculated, setHasCalculated] = useState(false);
   
   const [showAddModal, setShowAddModal] = useState(false);
   const [newParticipantName, setNewParticipantName] = useState('');
@@ -59,6 +60,7 @@ export default function TradePage() {
       setNewParticipantName('');
       setNewParticipantCode('');
       setSuggestions([]); // reset suggestions when new person joins
+      setHasCalculated(false);
     } else {
       alert('Código inválido. Asegúrate de copiar todo el texto.');
     }
@@ -67,11 +69,13 @@ export default function TradePage() {
   const handleRemoveParticipant = (id: string) => {
     setParticipants(participants.filter(p => p.id !== id));
     setSuggestions([]);
+    setHasCalculated(false);
   };
 
   const handleCalculate = () => {
     const results = calculateTrades(participants);
     setSuggestions(results);
+    setHasCalculated(true);
   };
 
   return (
@@ -155,6 +159,13 @@ export default function TradePage() {
           )}
 
           {/* Results Section */}
+          {hasCalculated && suggestions.length === 0 && (
+            <div className="bg-white/5 p-6 rounded-2xl text-center border border-white/10 mt-8 apple-glass-panel">
+              <p className="text-white/60 font-bold text-lg">No se encontraron intercambios posibles 😢</p>
+              <p className="text-white/40 text-sm mt-2">Nadie tiene repetidas que otro necesite en este grupo.</p>
+            </div>
+          )}
+
           {suggestions.length > 0 && (
             <section className="space-y-6 ">
               <h2 className="text-2xl font-black text-white border-b border-white/10 pb-2">
