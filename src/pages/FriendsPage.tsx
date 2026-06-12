@@ -79,28 +79,30 @@ export default function FriendsPage() {
 
       const usersRef = collection(db, 'users');
 
-      // 1. Try by Email exact match
-      if (term.includes('@')) {
-        const emailQuery = query(usersRef, where('email', '==', term.toLowerCase()));
-        const snap = await getDocs(emailQuery);
-        snap.forEach(doc => foundUsers.push({ uid: doc.id, ...doc.data() }));
-      } 
-      // 2. Try by Friend Code
-      else if (term.length === 6 && !term.includes(' ')) {
-        const codeDoc = await getDoc(doc(db, 'friendCodes', upperTerm));
-        if (codeDoc.exists()) {
-          const uSnap = await getDoc(doc(db, 'users', codeDoc.data().uid));
-          if (uSnap.exists()) foundUsers.push({ uid: uSnap.id, ...uSnap.data() });
-        }
-      }
+      const termLower = term.toLowerCase();
+      const termUpper = term.toUpperCase();
+      const termTitle = term.charAt(0).toUpperCase() + termLower.slice(1);
 
-      // 3. Try by Name Prefix
-      if (foundUsers.length === 0) {
-        // Name prefix search requires the exact capitalization or we try exact exact. 
-        // We'll query where displayName >= term and <= term + '\uf8ff'
-        const nameQuery = query(usersRef, where('displayName', '>=', term), where('displayName', '<=', term + '\uf8ff'));
-        const snap = await getDocs(nameQuery);
-        snap.forEach(doc => foundUsers.push({ uid: doc.id, ...doc.data() }));
+      // 1. Search by email prefix
+      const emailQuery = query(usersRef, where('email', '>=', termLower), where('email', '<=', termLower + '\uf8ff'));
+      const snap1 = await getDocs(emailQuery);
+      snap1.forEach(doc => foundUsers.push({ uid: doc.id, ...doc.data() }));
+
+      // 2. Search by friendCode prefix
+      const codeQuery = query(usersRef, where('friendCode', '>=', termUpper), where('friendCode', '<=', termUpper + '\uf8ff'));
+      const snap2 = await getDocs(codeQuery);
+      snap2.forEach(doc => foundUsers.push({ uid: doc.id, ...doc.data() }));
+
+      // 3. Search by displayName prefix (Original input case)
+      const nameQuery1 = query(usersRef, where('displayName', '>=', term), where('displayName', '<=', term + '\uf8ff'));
+      const snap3 = await getDocs(nameQuery1);
+      snap3.forEach(doc => foundUsers.push({ uid: doc.id, ...doc.data() }));
+
+      // 4. Search by displayName prefix (Title Case - common for names)
+      if (term !== termTitle) {
+        const nameQuery2 = query(usersRef, where('displayName', '>=', termTitle), where('displayName', '<=', termTitle + '\uf8ff'));
+        const snap4 = await getDocs(nameQuery2);
+        snap4.forEach(doc => foundUsers.push({ uid: doc.id, ...doc.data() }));
       }
 
       // Filter out self and deduplicate

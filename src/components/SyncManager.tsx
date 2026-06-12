@@ -45,6 +45,12 @@ export default function SyncManager() {
           await setDoc(doc(db, 'friendCodes', friendCode), { uid: user.uid });
         }
 
+        let finalFriendCode = cloudData.friendCode;
+        if (!finalFriendCode) {
+          finalFriendCode = Math.random().toString(36).substring(2, 8).toUpperCase();
+          await setDoc(doc(db, 'friendCodes', finalFriendCode), { uid: user.uid });
+        }
+
         // Save merged collection locally without triggering an upload loop
         await store.saveCollection(finalCollection, true);
 
@@ -55,7 +61,7 @@ export default function SyncManager() {
           displayName: user.displayName || 'Anonymous',
           photoURL: user.photoURL || '',
           email: user.email || '',
-          friendCode: cloudData.friendCode || Math.random().toString(36).substring(2, 8).toUpperCase(),
+          friendCode: finalFriendCode,
           friends: cloudData.friends || []
         }, { merge: true });
 
